@@ -1,0 +1,134 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+10,Athena's Olive,m1,Gyros,Greek,5.48
+10,Athena's Olive,m4,Souvlaki,Greek,5.58
+10,Athena's Olive,s4,Tzatziki,Greek,6.35
+10,Athena's Olive,s1,Tzatziki,Greek,6.67
+10,Athena's Olive,d2,Souvlaki,Greek,7.92
+10,Athena's Olive,s3,Souvlaki,Greek,10.83
+10,Athena's Olive,a2,Gyros,Greek,11.66
+10,Athena's Olive,d1,Souvlaki,Greek,11.95
+118,Athena's Olive,m4,Moussaka,Greek,6.19
+118,Athena's Olive,a1,Tzatziki,Greek,6.88
+118,Athena's Olive,s2,Souvlaki,Greek,9.56
+118,Athena's Olive,a3,Tzatziki,Greek,11.46
+118,Athena's Olive,d1,Gyros,Greek,12.53
+118,Athena's Olive,s3,Greek Salad,Greek,14.95
+22,Athena's Olive,d4,Baklava,Greek,5.76
+22,Athena's Olive,a4,Moussaka,Greek,5.97
+22,Athena's Olive,m4,Tzatziki,Greek,7.58
+22,Athena's Olive,a2,Tzatziki,Greek,9.43
+22,Athena's Olive,d3,Tzatziki,Greek,9.44
+22,Athena's Olive,m1,Souvlaki,Greek,11.39
+22,Athena's Olive,s1,Souvlaki,Greek,14.01
+70,Athena's Olive,a2,Gyros,Greek,5.07
+70,Athena's Olive,d5,Souvlaki,Greek,6.09
+70,Athena's Olive,d3,Baklava,Greek,6.51
+70,Athena's Olive,d1,Souvlaki,Greek,7.31
+70,Athena's Olive,m2,Greek Salad,Greek,10.19
+70,Athena's Olive,d4,Moussaka,Greek,12.38
+70,Athena's Olive,m3,Souvlaki,Greek,13.0
+70,Athena's Olive,d2,Moussaka,Greek,14.79
+94,Athena's Olive,a4,Souvlaki,Greek,7.05
+94,Athena's Olive,m4,Gyros,Greek,8.26
+94,Athena's Olive,d2,Tzatziki,Greek,9.07
+94,Athena's Olive,a5,Moussaka,Greek,9.21
+94,Athena's Olive,a2,Greek Salad,Greek,10.61
+94,Athena's Olive,a1,Souvlaki,Greek,10.88
+94,Athena's Olive,s3,Greek Salad,Greek,13.44
+94,Athena's Olive,s1,Baklava,Greek,13.51
+94,Athena's Olive,a3,Tzatziki,Greek,14.89
+94,Athena's Olive,m5,Baklava,Greek,14.92
+130,Gyro Gyro,m1,Tzatziki,Greek,6.81
+130,Gyro Gyro,s1,Greek Salad,Greek,10.0
+130,Gyro Gyro,d2,Baklava,Greek,11.58
+130,Gyro Gyro,s4,Baklava,Greek,11.61
+130,Gyro Gyro,a2,Moussaka,Greek,11.78
+130,Gyro Gyro,s2,Moussaka,Greek,12.01
+130,Gyro Gyro,d4,Souvlaki,Greek,13.11
+130,Gyro Gyro,m2,Souvlaki,Greek,13.55
+130,Gyro Gyro,a5,Baklava,Greek,14.19
+142,Gyro Gyro,a3,Baklava,Greek,5.61
+142,Gyro Gyro,d1,Gyros,Greek,5.64
+142,Gyro Gyro,s3,Moussaka,Greek,7.35
+142,Gyro Gyro,m2,Souvlaki,Greek,10.99
+142,Gyro Gyro,s1,Baklava,Greek,13.46
+142,Gyro Gyro,d3,Gyros,Greek,14.0
+142,Gyro Gyro,d5,Greek Salad,Greek,14.82
+178,Gyro Gyro,m1,Moussaka,Greek,7.75
+178,Gyro Gyro,s1,Souvlaki,Greek,10.24
+178,Gyro Gyro,a2,Moussaka,Greek,11.4
+178,Gyro Gyro,m2,Baklava,Greek,12.13
+178,Gyro Gyro,s3,Baklava,Greek,13.05
+178,Gyro Gyro,a4,Gyros,Greek,14.01
+178,Gyro Gyro,s5,Tzatziki,Greek,14.1
+190,Gyro Gyro,d1,Gyros,Greek,6.37
+190,Gyro Gyro,d2,Souvlaki,Greek,10.91
+190,Gyro Gyro,d4,Moussaka,Greek,11.08
+190,Gyro Gyro,d3,Moussaka,Greek,13.4
+190,Gyro Gyro,m3,Moussaka,Greek,14.54
+46,Gyro Gyro,m3,Tzatziki,Greek,7.56
+46,Gyro Gyro,m2,Baklava,Greek,9.23
+46,Gyro Gyro,a4,Moussaka,Greek,10.37
+46,Gyro Gyro,m4,Moussaka,Greek,10.61
+46,Gyro Gyro,d3,Gyros,Greek,10.72
+46,Gyro Gyro,a2,Souvlaki,Greek,11.64
+46,Gyro Gyro,a1,Souvlaki,Greek,12.5
+46,Gyro Gyro,m1,Souvlaki,Greek,12.83
+46,Gyro Gyro,s3,Baklava,Greek,14.38
+46,Gyro Gyro,d4,Tzatziki,Greek,14.71
+154,Mykonos Taverna,d4,Tzatziki,Greek,5.54
+154,Mykonos Taverna,m4,Souvlaki,Greek,6.92
+154,Mykonos Taverna,d3,Souvlaki,Greek,12.38
+154,Mykonos Taverna,a3,Souvlaki,Greek,12.78
+154,Mykonos Taverna,m2,Baklava,Greek,13.53
+154,Mykonos Taverna,m1,Moussaka,Greek,14.39
+154,Mykonos Taverna,s2,Gyros,Greek,14.54
+166,Mykonos Taverna,d5,Greek Salad,Greek,6.27
+166,Mykonos Taverna,d1,Souvlaki,Greek,6.89
+166,Mykonos Taverna,s4,Greek Salad,Greek,7.1
+166,Mykonos Taverna,s3,Baklava,Greek,9.21
+166,Mykonos Taverna,m2,Tzatziki,Greek,9.28
+166,Mykonos Taverna,d3,Gyros,Greek,9.61
+166,Mykonos Taverna,m5,Moussaka,Greek,9.92
+166,Mykonos Taverna,a5,Souvlaki,Greek,10.24
+166,Mykonos Taverna,m3,Souvlaki,Greek,11.76
+166,Mykonos Taverna,a2,Baklava,Greek,12.45
+166,Mykonos Taverna,m4,Gyros,Greek,12.69
+106,Zeus's Table,s1,Souvlaki,Greek,5.14
+106,Zeus's Table,s4,Greek Salad,Greek,5.65
+106,Zeus's Table,d5,Gyros,Greek,5.87
+106,Zeus's Table,d1,Moussaka,Greek,7.68
+106,Zeus's Table,a3,Moussaka,Greek,9.55
+106,Zeus's Table,d2,Moussaka,Greek,10.97
+106,Zeus's Table,d4,Souvlaki,Greek,12.54
+106,Zeus's Table,s3,Tzatziki,Greek,12.66
+106,Zeus's Table,m4,Baklava,Greek,13.27
+34,Zeus's Table,s5,Moussaka,Greek,5.6
+34,Zeus's Table,s1,Tzatziki,Greek,5.6
+34,Zeus's Table,m4,Tzatziki,Greek,6.15
+34,Zeus's Table,m2,Moussaka,Greek,8.12
+34,Zeus's Table,d4,Greek Salad,Greek,8.15
+34,Zeus's Table,a2,Greek Salad,Greek,8.9
+34,Zeus's Table,d3,Tzatziki,Greek,9.34
+34,Zeus's Table,a1,Souvlaki,Greek,12.87
+34,Zeus's Table,d1,Moussaka,Greek,13.06
+34,Zeus's Table,m3,Baklava,Greek,13.43
+34,Zeus's Table,a3,Souvlaki,Greek,14.14
+58,Zeus's Table,d1,Moussaka,Greek,6.23
+58,Zeus's Table,s1,Tzatziki,Greek,6.32
+58,Zeus's Table,a1,Tzatziki,Greek,7.36
+58,Zeus's Table,d2,Tzatziki,Greek,9.63
+58,Zeus's Table,s4,Baklava,Greek,10.52
+58,Zeus's Table,m4,Souvlaki,Greek,11.95
+58,Zeus's Table,s2,Souvlaki,Greek,13.26
+58,Zeus's Table,m2,Greek Salad,Greek,14.11
+58,Zeus's Table,d3,Tzatziki,Greek,14.55
+82,Zeus's Table,m2,Moussaka,Greek,5.64
+82,Zeus's Table,a2,Moussaka,Greek,7.89
+82,Zeus's Table,m5,Greek Salad,Greek,8.47
+82,Zeus's Table,m4,Tzatziki,Greek,9.05
+82,Zeus's Table,d2,Greek Salad,Greek,9.58
+82,Zeus's Table,d1,Souvlaki,Greek,12.02
+82,Zeus's Table,d5,Souvlaki,Greek,12.33
+82,Zeus's Table,a1,Gyros,Greek,12.81
+82,Zeus's Table,d4,Baklava,Greek,14.13

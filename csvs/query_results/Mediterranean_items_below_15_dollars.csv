@@ -1,0 +1,133 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+2,Aegean Breeze,s3,Greek Salad,Mediterranean,11.43
+2,Aegean Breeze,d1,Greek Salad,Mediterranean,11.91
+2,Aegean Breeze,m2,Grilled Octopus,Mediterranean,12.58
+2,Aegean Breeze,s2,Baklava,Mediterranean,13.13
+2,Aegean Breeze,d5,Greek Salad,Mediterranean,13.55
+2,Aegean Breeze,g3,Greek Salad,Mediterranean,14.49
+2,Aegean Breeze,g2,Lamb Kebab,Mediterranean,14.68
+50,Aegean Breeze,d2,Falafel,Mediterranean,5.06
+50,Aegean Breeze,s4,Greek Salad,Mediterranean,5.97
+50,Aegean Breeze,g2,Baklava,Mediterranean,6.01
+50,Aegean Breeze,s1,Greek Salad,Mediterranean,8.95
+50,Aegean Breeze,g1,Grilled Octopus,Mediterranean,9.45
+50,Aegean Breeze,d1,Grilled Octopus,Mediterranean,11.52
+50,Aegean Breeze,s2,Grilled Octopus,Mediterranean,12.3
+50,Aegean Breeze,s5,Lamb Kebab,Mediterranean,13.19
+50,Aegean Breeze,s3,Grilled Octopus,Mediterranean,13.34
+50,Aegean Breeze,d3,Falafel,Mediterranean,13.91
+122,Olive & Thyme,s1,Baklava,Mediterranean,5.44
+122,Olive & Thyme,m2,Hummus,Mediterranean,6.34
+122,Olive & Thyme,s2,Falafel,Mediterranean,7.18
+122,Olive & Thyme,s5,Baklava,Mediterranean,7.82
+122,Olive & Thyme,g2,Lamb Kebab,Mediterranean,7.99
+122,Olive & Thyme,m5,Baklava,Mediterranean,9.53
+122,Olive & Thyme,m3,Baklava,Mediterranean,10.72
+122,Olive & Thyme,g3,Greek Salad,Mediterranean,11.6
+122,Olive & Thyme,m1,Falafel,Mediterranean,14.04
+158,Olive & Thyme,g2,Lamb Kebab,Mediterranean,5.99
+158,Olive & Thyme,s2,Lamb Kebab,Mediterranean,8.58
+158,Olive & Thyme,g4,Greek Salad,Mediterranean,9.27
+158,Olive & Thyme,s1,Greek Salad,Mediterranean,9.33
+158,Olive & Thyme,g3,Grilled Octopus,Mediterranean,10.09
+158,Olive & Thyme,d2,Lamb Kebab,Mediterranean,11.96
+158,Olive & Thyme,d1,Greek Salad,Mediterranean,11.98
+158,Olive & Thyme,g1,Falafel,Mediterranean,14.23
+170,Olive & Thyme,d3,Hummus,Mediterranean,5.89
+170,Olive & Thyme,m5,Lamb Kebab,Mediterranean,6.4
+170,Olive & Thyme,m2,Lamb Kebab,Mediterranean,6.46
+170,Olive & Thyme,s1,Lamb Kebab,Mediterranean,6.91
+170,Olive & Thyme,g1,Lamb Kebab,Mediterranean,7.19
+170,Olive & Thyme,g3,Hummus,Mediterranean,8.59
+170,Olive & Thyme,m1,Lamb Kebab,Mediterranean,11.32
+170,Olive & Thyme,m3,Baklava,Mediterranean,11.61
+170,Olive & Thyme,s3,Grilled Octopus,Mediterranean,12.41
+74,Olive & Thyme,g5,Hummus,Mediterranean,6.6
+74,Olive & Thyme,d5,Baklava,Mediterranean,6.97
+74,Olive & Thyme,s1,Lamb Kebab,Mediterranean,9.24
+74,Olive & Thyme,m2,Greek Salad,Mediterranean,9.84
+74,Olive & Thyme,m1,Baklava,Mediterranean,10.69
+74,Olive & Thyme,g3,Baklava,Mediterranean,11.46
+74,Olive & Thyme,g4,Lamb Kebab,Mediterranean,11.61
+74,Olive & Thyme,d2,Grilled Octopus,Mediterranean,14.2
+74,Olive & Thyme,d1,Lamb Kebab,Mediterranean,14.32
+110,Santorini Grill,d5,Lamb Kebab,Mediterranean,5.38
+110,Santorini Grill,d4,Grilled Octopus,Mediterranean,7.51
+110,Santorini Grill,d1,Baklava,Mediterranean,9.51
+110,Santorini Grill,m2,Baklava,Mediterranean,11.16
+110,Santorini Grill,m1,Falafel,Mediterranean,11.19
+110,Santorini Grill,g1,Hummus,Mediterranean,12.83
+110,Santorini Grill,s2,Hummus,Mediterranean,12.89
+110,Santorini Grill,g2,Greek Salad,Mediterranean,13.06
+110,Santorini Grill,s1,Baklava,Mediterranean,13.97
+182,Santorini Grill,m4,Hummus,Mediterranean,6.11
+182,Santorini Grill,s2,Hummus,Mediterranean,6.43
+182,Santorini Grill,d1,Lamb Kebab,Mediterranean,7.28
+182,Santorini Grill,m3,Baklava,Mediterranean,10.09
+182,Santorini Grill,d3,Falafel,Mediterranean,10.41
+182,Santorini Grill,g4,Greek Salad,Mediterranean,11.54
+182,Santorini Grill,m1,Hummus,Mediterranean,14.31
+26,Santorini Grill,g2,Hummus,Mediterranean,5.71
+26,Santorini Grill,g3,Baklava,Mediterranean,6.36
+26,Santorini Grill,s1,Greek Salad,Mediterranean,6.63
+26,Santorini Grill,d3,Baklava,Mediterranean,7.23
+26,Santorini Grill,m4,Baklava,Mediterranean,8.23
+26,Santorini Grill,s2,Hummus,Mediterranean,9.0
+26,Santorini Grill,m3,Lamb Kebab,Mediterranean,10.0
+26,Santorini Grill,g5,Greek Salad,Mediterranean,10.76
+26,Santorini Grill,d1,Baklava,Mediterranean,10.78
+26,Santorini Grill,d2,Falafel,Mediterranean,12.32
+26,Santorini Grill,g1,Grilled Octopus,Mediterranean,14.06
+26,Santorini Grill,s3,Baklava,Mediterranean,14.55
+38,Santorini Grill,g3,Baklava,Mediterranean,6.94
+38,Santorini Grill,m1,Falafel,Mediterranean,7.95
+38,Santorini Grill,g1,Falafel,Mediterranean,9.11
+38,Santorini Grill,s3,Greek Salad,Mediterranean,10.97
+38,Santorini Grill,d2,Lamb Kebab,Mediterranean,12.24
+38,Santorini Grill,s1,Baklava,Mediterranean,12.52
+98,Santorini Grill,g4,Falafel,Mediterranean,6.06
+98,Santorini Grill,s4,Hummus,Mediterranean,7.24
+98,Santorini Grill,m2,Greek Salad,Mediterranean,7.36
+98,Santorini Grill,g2,Greek Salad,Mediterranean,7.49
+98,Santorini Grill,m3,Baklava,Mediterranean,9.87
+98,Santorini Grill,d5,Lamb Kebab,Mediterranean,10.94
+98,Santorini Grill,g3,Falafel,Mediterranean,14.54
+134,Seafood Harbor,s5,Hummus,Mediterranean,5.79
+134,Seafood Harbor,d2,Greek Salad,Mediterranean,6.34
+134,Seafood Harbor,g3,Lamb Kebab,Mediterranean,9.91
+134,Seafood Harbor,s2,Lamb Kebab,Mediterranean,11.12
+134,Seafood Harbor,m4,Greek Salad,Mediterranean,12.73
+134,Seafood Harbor,s3,Baklava,Mediterranean,13.04
+134,Seafood Harbor,g2,Hummus,Mediterranean,13.26
+134,Seafood Harbor,d3,Greek Salad,Mediterranean,13.8
+14,Seafood Harbor,g2,Lamb Kebab,Mediterranean,5.2
+14,Seafood Harbor,d2,Falafel,Mediterranean,7.1
+14,Seafood Harbor,s4,Greek Salad,Mediterranean,7.45
+14,Seafood Harbor,g1,Baklava,Mediterranean,7.74
+14,Seafood Harbor,d3,Baklava,Mediterranean,11.18
+14,Seafood Harbor,s2,Falafel,Mediterranean,13.74
+14,Seafood Harbor,d1,Hummus,Mediterranean,14.28
+146,Seafood Harbor,m1,Lamb Kebab,Mediterranean,6.23
+146,Seafood Harbor,g1,Lamb Kebab,Mediterranean,7.39
+146,Seafood Harbor,g3,Grilled Octopus,Mediterranean,8.82
+146,Seafood Harbor,d3,Hummus,Mediterranean,11.97
+146,Seafood Harbor,d2,Grilled Octopus,Mediterranean,12.64
+146,Seafood Harbor,m3,Greek Salad,Mediterranean,13.12
+146,Seafood Harbor,g2,Greek Salad,Mediterranean,13.59
+146,Seafood Harbor,s2,Falafel,Mediterranean,14.93
+62,Seafood Harbor,m1,Greek Salad,Mediterranean,6.19
+62,Seafood Harbor,g3,Falafel,Mediterranean,6.89
+62,Seafood Harbor,g1,Lamb Kebab,Mediterranean,11.17
+62,Seafood Harbor,d2,Baklava,Mediterranean,12.37
+62,Seafood Harbor,d3,Falafel,Mediterranean,12.41
+62,Seafood Harbor,d1,Falafel,Mediterranean,13.98
+62,Seafood Harbor,m4,Baklava,Mediterranean,14.15
+86,Seafood Harbor,d5,Lamb Kebab,Mediterranean,6.88
+86,Seafood Harbor,d1,Grilled Octopus,Mediterranean,7.19
+86,Seafood Harbor,d4,Lamb Kebab,Mediterranean,8.49
+86,Seafood Harbor,g4,Hummus,Mediterranean,11.01
+86,Seafood Harbor,g3,Hummus,Mediterranean,11.23
+86,Seafood Harbor,g5,Grilled Octopus,Mediterranean,12.22
+86,Seafood Harbor,g2,Lamb Kebab,Mediterranean,13.6
+86,Seafood Harbor,m1,Greek Salad,Mediterranean,13.68
+86,Seafood Harbor,g1,Hummus,Mediterranean,13.85

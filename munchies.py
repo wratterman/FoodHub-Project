@@ -65,5 +65,21 @@ for table_name in tables_to_export:
 
             print(f"Exported data from '{table_name}' to '{table_name}.csv'")
 
+cuisines_to_search = ["French", "Italian", "Chinese", "Mexican", "Thai", "American", "Mediterranean", "Japanese", "Spanish", "Indian", "Vietnamese", "Greek"]
+for cuisine in cuisines_to_search:
+        cur.execute(f"SELECT * FROM menu_items_by_cuisine_and_price('{cuisine}', 15);")
+        rows = cur.fetchall()
+
+        if rows:
+            column_names = [desc[0] for desc in cur.description]
+
+            # Create a CSV file for Created tables
+            with open(f"csvs/query_results/{cuisine}_items_below_15_dollars.csv", "w", newline="") as csv_file:
+                csv_writer = csv.writer(csv_file)
+                csv_writer.writerow(column_names) 
+                csv_writer.writerows(rows) 
+
+            print(f"Exported data from '{cuisine} Search' to '{cuisine}_items_below_15_dollars.csv'")
+
 conn.commit()
 conn.close()

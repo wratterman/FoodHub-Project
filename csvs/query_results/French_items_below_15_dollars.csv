@@ -1,0 +1,120 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+140,Boulangerie Bliss,p2,Escargot,French,7.36
+140,Boulangerie Bliss,p4,Coq au Vin,French,8.14
+140,Boulangerie Bliss,e5,Coq au Vin,French,11.17
+140,Boulangerie Bliss,e3,Crème Brûlée,French,12.13
+140,Boulangerie Bliss,d3,Camembert,French,12.29
+140,Boulangerie Bliss,p3,Crème Brûlée,French,12.45
+140,Boulangerie Bliss,p1,Camembert,French,14.5
+140,Boulangerie Bliss,e2,Baguette,French,14.53
+140,Boulangerie Bliss,f1,Coq au Vin,French,14.61
+20,Boulangerie Bliss,p2,Baguette,French,6.12
+20,Boulangerie Bliss,f4,Baguette,French,7.54
+20,Boulangerie Bliss,f3,Baguette,French,8.74
+20,Boulangerie Bliss,f1,Crème Brûlée,French,9.29
+20,Boulangerie Bliss,e2,Camembert,French,9.45
+20,Boulangerie Bliss,d1,Baguette,French,9.49
+20,Boulangerie Bliss,f5,Coq au Vin,French,10.18
+20,Boulangerie Bliss,p3,Escargot,French,12.62
+20,Boulangerie Bliss,d2,Escargot,French,13.2
+20,Boulangerie Bliss,p4,Camembert,French,13.91
+20,Boulangerie Bliss,d5,Escargot,French,14.93
+56,Boulangerie Bliss,p1,Coq au Vin,French,5.06
+56,Boulangerie Bliss,d3,Baguette,French,7.09
+56,Boulangerie Bliss,e3,Ratatouille,French,7.12
+56,Boulangerie Bliss,f3,Ratatouille,French,8.67
+56,Boulangerie Bliss,f2,Baguette,French,8.75
+56,Boulangerie Bliss,p3,Crème Brûlée,French,9.68
+56,Boulangerie Bliss,e1,Camembert,French,11.48
+56,Boulangerie Bliss,f1,Baguette,French,11.8
+56,Boulangerie Bliss,d2,Crème Brûlée,French,11.8
+56,Boulangerie Bliss,p2,Camembert,French,13.0
+56,Boulangerie Bliss,d5,Baguette,French,13.33
+56,Boulangerie Bliss,d1,Camembert,French,14.88
+116,Chateau de Vin,p5,Escargot,French,6.1
+116,Chateau de Vin,d3,Camembert,French,6.89
+116,Chateau de Vin,p3,Crème Brûlée,French,9.36
+116,Chateau de Vin,f1,Camembert,French,13.68
+176,Chateau de Vin,d2,Baguette,French,5.18
+176,Chateau de Vin,f4,Escargot,French,5.99
+176,Chateau de Vin,p1,Camembert,French,6.08
+176,Chateau de Vin,d3,Ratatouille,French,8.55
+176,Chateau de Vin,p2,Escargot,French,9.09
+176,Chateau de Vin,p4,Camembert,French,12.54
+176,Chateau de Vin,f3,Escargot,French,12.88
+176,Chateau de Vin,d1,Crème Brûlée,French,14.77
+32,Chateau de Vin,e2,Camembert,French,6.42
+32,Chateau de Vin,d2,Ratatouille,French,7.57
+32,Chateau de Vin,f4,Ratatouille,French,8.85
+32,Chateau de Vin,f1,Crème Brûlée,French,12.7
+92,Chateau de Vin,p3,Coq au Vin,French,5.67
+92,Chateau de Vin,e2,Escargot,French,7.84
+92,Chateau de Vin,p4,Camembert,French,9.54
+92,Chateau de Vin,d5,Escargot,French,11.36
+92,Chateau de Vin,f1,Escargot,French,11.56
+92,Chateau de Vin,p2,Crème Brûlée,French,14.47
+92,Chateau de Vin,d3,Camembert,French,14.55
+92,Chateau de Vin,f3,Crème Brûlée,French,14.95
+128,Le Petit Café,d1,Escargot,French,7.67
+128,Le Petit Café,e1,Crème Brûlée,French,9.85
+128,Le Petit Café,e2,Escargot,French,10.45
+128,Le Petit Café,p2,Baguette,French,11.01
+128,Le Petit Café,d2,Escargot,French,12.89
+128,Le Petit Café,d5,Escargot,French,12.98
+128,Le Petit Café,f2,Crème Brûlée,French,13.69
+128,Le Petit Café,e3,Escargot,French,14.18
+128,Le Petit Café,f1,Ratatouille,French,14.57
+128,Le Petit Café,p3,Escargot,French,14.77
+152,Le Petit Café,p1,Crème Brûlée,French,6.68
+152,Le Petit Café,d4,Baguette,French,7.32
+152,Le Petit Café,e1,Camembert,French,8.19
+152,Le Petit Café,f3,Escargot,French,8.54
+152,Le Petit Café,d2,Crème Brûlée,French,13.83
+152,Le Petit Café,d3,Camembert,French,14.46
+164,Le Petit Café,p4,Escargot,French,5.64
+164,Le Petit Café,d5,Crème Brûlée,French,6.96
+164,Le Petit Café,d1,Camembert,French,8.31
+164,Le Petit Café,d3,Camembert,French,10.31
+164,Le Petit Café,f4,Camembert,French,11.41
+164,Le Petit Café,d4,Baguette,French,11.5
+164,Le Petit Café,p1,Camembert,French,11.77
+188,Le Petit Café,e3,Ratatouille,French,5.18
+188,Le Petit Café,p2,Camembert,French,5.44
+188,Le Petit Café,f2,Camembert,French,6.03
+188,Le Petit Café,d3,Baguette,French,13.09
+44,Le Petit Café,f4,Crème Brûlée,French,5.12
+44,Le Petit Café,d3,Escargot,French,6.8
+44,Le Petit Café,e1,Camembert,French,6.88
+44,Le Petit Café,p1,Coq au Vin,French,7.87
+44,Le Petit Café,p3,Ratatouille,French,7.99
+44,Le Petit Café,p4,Coq au Vin,French,9.43
+44,Le Petit Café,d2,Crème Brûlée,French,11.58
+8,Le Petit Café,f1,Coq au Vin,French,7.99
+8,Le Petit Café,d5,Ratatouille,French,8.99
+8,Le Petit Café,e2,Baguette,French,9.38
+8,Le Petit Café,d4,Crème Brûlée,French,10.45
+8,Le Petit Café,d1,Ratatouille,French,11.44
+8,Le Petit Café,e5,Camembert,French,12.9
+8,Le Petit Café,e3,Crème Brûlée,French,13.74
+8,Le Petit Café,e4,Baguette,French,14.37
+104,Parisian Bistro,p1,Coq au Vin,French,6.31
+104,Parisian Bistro,e3,Ratatouille,French,10.99
+104,Parisian Bistro,d3,Crème Brûlée,French,11.57
+104,Parisian Bistro,d2,Baguette,French,12.51
+104,Parisian Bistro,f3,Baguette,French,12.89
+104,Parisian Bistro,e1,Escargot,French,12.98
+104,Parisian Bistro,e2,Baguette,French,13.43
+104,Parisian Bistro,p3,Ratatouille,French,13.49
+104,Parisian Bistro,p2,Ratatouille,French,13.83
+68,Parisian Bistro,e4,Ratatouille,French,6.12
+68,Parisian Bistro,p1,Baguette,French,8.23
+68,Parisian Bistro,p2,Camembert,French,9.76
+68,Parisian Bistro,f2,Camembert,French,11.59
+68,Parisian Bistro,d3,Ratatouille,French,13.89
+68,Parisian Bistro,e5,Crème Brûlée,French,14.68
+80,Parisian Bistro,f3,Coq au Vin,French,9.63
+80,Parisian Bistro,d4,Camembert,French,9.89
+80,Parisian Bistro,f2,Coq au Vin,French,10.24
+80,Parisian Bistro,p4,Coq au Vin,French,12.15
+80,Parisian Bistro,p3,Camembert,French,12.24
+80,Parisian Bistro,f5,Camembert,French,12.93

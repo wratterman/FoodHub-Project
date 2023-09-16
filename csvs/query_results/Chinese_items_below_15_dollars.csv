@@ -1,0 +1,138 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+16,Bamboo Garden,d3,Lo Mein,Chinese,7.39
+16,Bamboo Garden,r4,Fortune Cookies,Chinese,11.32
+16,Bamboo Garden,d4,Fried Rice,Chinese,11.73
+16,Bamboo Garden,r3,Sweet & Sour Chicken,Chinese,11.92
+16,Bamboo Garden,d2,Fried Rice,Chinese,13.99
+16,Bamboo Garden,d1,Sweet & Sour Chicken,Chinese,14.08
+112,Golden Dragon,r2,Sweet & Sour Chicken,Chinese,6.5
+112,Golden Dragon,n3,Lo Mein,Chinese,6.63
+112,Golden Dragon,d1,Fried Rice,Chinese,6.73
+112,Golden Dragon,n5,Dumplings,Chinese,6.75
+112,Golden Dragon,d3,Lo Mein,Chinese,7.71
+112,Golden Dragon,d3,Lo Mein,Chinese,9.97
+112,Golden Dragon,n2,Sweet & Sour Chicken,Chinese,10.61
+112,Golden Dragon,n4,Fried Rice,Chinese,11.84
+112,Golden Dragon,d2,Fortune Cookies,Chinese,14.5
+136,Golden Dragon,d4,Lo Mein,Chinese,5.15
+136,Golden Dragon,n1,Fortune Cookies,Chinese,7.01
+136,Golden Dragon,n4,Fortune Cookies,Chinese,9.73
+136,Golden Dragon,r1,Sweet & Sour Chicken,Chinese,9.8
+136,Golden Dragon,d1,Sweet & Sour Chicken,Chinese,10.35
+136,Golden Dragon,d3,Dumplings,Chinese,11.3
+4,Golden Dragon,r3,Fried Rice,Chinese,5.22
+4,Golden Dragon,d5,Fried Rice,Chinese,9.11
+4,Golden Dragon,d2,Dumplings,Chinese,10.51
+4,Golden Dragon,d2,Dumplings,Chinese,10.8
+4,Golden Dragon,d3,Fried Rice,Chinese,11.09
+4,Golden Dragon,r4,Sweet & Sour Chicken,Chinese,11.9
+4,Golden Dragon,d1,Dumplings,Chinese,12.21
+4,Golden Dragon,d3,Sweet & Sour Chicken,Chinese,14.02
+4,Golden Dragon,d4,Fried Rice,Chinese,14.14
+40,Golden Dragon,d3,Fortune Cookies,Chinese,6.38
+40,Golden Dragon,n3,Fried Rice,Chinese,10.13
+40,Golden Dragon,r1,Dumplings,Chinese,10.53
+40,Golden Dragon,d4,Fortune Cookies,Chinese,11.17
+40,Golden Dragon,n1,Dumplings,Chinese,11.53
+40,Golden Dragon,d2,Lo Mein,Chinese,11.65
+40,Golden Dragon,n2,Dumplings,Chinese,11.82
+40,Golden Dragon,r4,Fortune Cookies,Chinese,14.73
+100,Jade Palace,d3,Fried Rice,Chinese,6.73
+100,Jade Palace,d1,Dumplings,Chinese,7.7
+100,Jade Palace,d3,Dumplings,Chinese,9.25
+100,Jade Palace,d4,Lo Mein,Chinese,10.17
+100,Jade Palace,d4,Fortune Cookies,Chinese,12.4
+100,Jade Palace,d1,Dumplings,Chinese,12.51
+100,Jade Palace,r2,Lo Mein,Chinese,13.19
+100,Jade Palace,d2,Sweet & Sour Chicken,Chinese,13.37
+100,Jade Palace,d2,Sweet & Sour Chicken,Chinese,13.4
+100,Jade Palace,n2,Lo Mein,Chinese,14.29
+100,Jade Palace,r1,Lo Mein,Chinese,14.81
+124,Jade Palace,n2,Fortune Cookies,Chinese,5.76
+124,Jade Palace,r1,Lo Mein,Chinese,7.31
+124,Jade Palace,n3,Lo Mein,Chinese,7.44
+124,Jade Palace,d1,Dumplings,Chinese,7.98
+124,Jade Palace,d5,Dumplings,Chinese,9.11
+124,Jade Palace,r3,Sweet & Sour Chicken,Chinese,9.2
+124,Jade Palace,n1,Sweet & Sour Chicken,Chinese,9.45
+124,Jade Palace,d2,Fortune Cookies,Chinese,10.31
+124,Jade Palace,d4,Lo Mein,Chinese,11.07
+124,Jade Palace,d4,Dumplings,Chinese,12.12
+148,Jade Palace,d2,Dumplings,Chinese,6.16
+148,Jade Palace,n4,Sweet & Sour Chicken,Chinese,9.02
+148,Jade Palace,n5,Sweet & Sour Chicken,Chinese,9.12
+148,Jade Palace,d2,Dumplings,Chinese,13.48
+148,Jade Palace,n1,Lo Mein,Chinese,14.74
+160,Jade Palace,d2,Lo Mein,Chinese,5.76
+160,Jade Palace,d3,Fried Rice,Chinese,6.04
+160,Jade Palace,n1,Fortune Cookies,Chinese,9.44
+160,Jade Palace,d5,Sweet & Sour Chicken,Chinese,10.28
+160,Jade Palace,r1,Fried Rice,Chinese,10.83
+160,Jade Palace,d4,Fried Rice,Chinese,11.57
+160,Jade Palace,d2,Dumplings,Chinese,12.68
+160,Jade Palace,n4,Lo Mein,Chinese,13.77
+160,Jade Palace,d1,Lo Mein,Chinese,13.79
+160,Jade Palace,d1,Lo Mein,Chinese,14.65
+184,Jade Palace,r4,Sweet & Sour Chicken,Chinese,6.98
+184,Jade Palace,n5,Dumplings,Chinese,7.52
+184,Jade Palace,n1,Sweet & Sour Chicken,Chinese,7.82
+184,Jade Palace,r1,Fortune Cookies,Chinese,8.83
+184,Jade Palace,d2,Lo Mein,Chinese,8.96
+184,Jade Palace,d3,Fortune Cookies,Chinese,9.2
+184,Jade Palace,r3,Lo Mein,Chinese,10.78
+184,Jade Palace,n3,Fortune Cookies,Chinese,11.19
+184,Jade Palace,d1,Fried Rice,Chinese,11.38
+184,Jade Palace,d1,Fried Rice,Chinese,12.34
+184,Jade Palace,n2,Sweet & Sour Chicken,Chinese,13.15
+184,Jade Palace,n4,Dumplings,Chinese,13.37
+64,Jade Palace,d1,Lo Mein,Chinese,5.25
+64,Jade Palace,r2,Lo Mein,Chinese,5.8
+64,Jade Palace,r1,Sweet & Sour Chicken,Chinese,7.36
+64,Jade Palace,n1,Sweet & Sour Chicken,Chinese,8.0
+64,Jade Palace,d4,Dumplings,Chinese,8.82
+64,Jade Palace,d4,Dumplings,Chinese,9.32
+64,Jade Palace,n4,Sweet & Sour Chicken,Chinese,10.52
+64,Jade Palace,n2,Dumplings,Chinese,11.05
+64,Jade Palace,d2,Fortune Cookies,Chinese,11.72
+64,Jade Palace,d3,Fried Rice,Chinese,13.23
+172,Wok & Roll,d2,Lo Mein,Chinese,5.36
+172,Wok & Roll,r1,Sweet & Sour Chicken,Chinese,9.69
+172,Wok & Roll,d1,Fried Rice,Chinese,10.47
+172,Wok & Roll,d3,Fried Rice,Chinese,10.84
+172,Wok & Roll,d5,Dumplings,Chinese,12.86
+172,Wok & Roll,d4,Fortune Cookies,Chinese,14.66
+28,Wok & Roll,d3,Dumplings,Chinese,5.23
+28,Wok & Roll,d2,Sweet & Sour Chicken,Chinese,6.3
+28,Wok & Roll,n2,Dumplings,Chinese,8.14
+28,Wok & Roll,d3,Fried Rice,Chinese,9.7
+28,Wok & Roll,r2,Sweet & Sour Chicken,Chinese,12.6
+28,Wok & Roll,n1,Lo Mein,Chinese,13.28
+28,Wok & Roll,d1,Sweet & Sour Chicken,Chinese,13.36
+28,Wok & Roll,r1,Sweet & Sour Chicken,Chinese,14.3
+52,Wok & Roll,d3,Fortune Cookies,Chinese,5.14
+52,Wok & Roll,d3,Lo Mein,Chinese,5.45
+52,Wok & Roll,n3,Lo Mein,Chinese,6.27
+52,Wok & Roll,r3,Fried Rice,Chinese,7.31
+52,Wok & Roll,r2,Fortune Cookies,Chinese,10.6
+52,Wok & Roll,d1,Sweet & Sour Chicken,Chinese,11.38
+52,Wok & Roll,n1,Fried Rice,Chinese,11.98
+52,Wok & Roll,r1,Dumplings,Chinese,12.49
+52,Wok & Roll,n2,Lo Mein,Chinese,14.81
+76,Wok & Roll,n2,Sweet & Sour Chicken,Chinese,5.54
+76,Wok & Roll,d2,Sweet & Sour Chicken,Chinese,6.12
+76,Wok & Roll,d5,Sweet & Sour Chicken,Chinese,7.9
+76,Wok & Roll,d3,Sweet & Sour Chicken,Chinese,9.92
+76,Wok & Roll,d2,Fried Rice,Chinese,10.79
+76,Wok & Roll,d4,Lo Mein,Chinese,11.58
+76,Wok & Roll,d1,Lo Mein,Chinese,12.69
+76,Wok & Roll,r3,Fortune Cookies,Chinese,13.14
+76,Wok & Roll,n1,Fried Rice,Chinese,13.21
+76,Wok & Roll,d1,Lo Mein,Chinese,14.24
+88,Wok & Roll,r3,Fortune Cookies,Chinese,5.06
+88,Wok & Roll,d2,Fried Rice,Chinese,5.57
+88,Wok & Roll,n3,Dumplings,Chinese,7.98
+88,Wok & Roll,d3,Sweet & Sour Chicken,Chinese,10.5
+88,Wok & Roll,r2,Dumplings,Chinese,10.68
+88,Wok & Roll,r4,Fried Rice,Chinese,10.84
+88,Wok & Roll,d5,Dumplings,Chinese,12.53
+88,Wok & Roll,d2,Dumplings,Chinese,12.78

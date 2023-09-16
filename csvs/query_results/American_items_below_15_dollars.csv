@@ -1,0 +1,128 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+105,Eagle's Diner,b2,Cobb Salad,American,6.71
+105,Eagle's Diner,h5,Wings,American,7.8
+105,Eagle's Diner,d4,Cobb Salad,American,8.03
+105,Eagle's Diner,b1,Cheeseburger,American,9.01
+105,Eagle's Diner,h1,Chili Dog,American,9.59
+105,Eagle's Diner,d1,Wings,American,9.94
+105,Eagle's Diner,a2,Cheeseburger,American,10.95
+105,Eagle's Diner,h4,Cheeseburger,American,11.49
+105,Eagle's Diner,d2,Chili Dog,American,12.93
+117,Eagle's Diner,a1,Fried Chicken,American,5.25
+117,Eagle's Diner,d2,Wings,American,6.22
+117,Eagle's Diner,d3,Wings,American,7.47
+117,Eagle's Diner,h4,Cobb Salad,American,7.96
+117,Eagle's Diner,h5,Cobb Salad,American,8.38
+117,Eagle's Diner,a3,Wings,American,9.73
+117,Eagle's Diner,d1,Fried Chicken,American,11.73
+117,Eagle's Diner,h2,Apple Pie,American,11.96
+117,Eagle's Diner,a4,Chili Dog,American,13.06
+117,Eagle's Diner,b1,Apple Pie,American,13.75
+129,Eagle's Diner,h3,Chili Dog,American,6.8
+129,Eagle's Diner,a1,Wings,American,9.19
+129,Eagle's Diner,b3,Cheeseburger,American,11.26
+129,Eagle's Diner,b2,Fried Chicken,American,13.03
+129,Eagle's Diner,d3,Cobb Salad,American,14.12
+129,Eagle's Diner,b5,Cheeseburger,American,14.6
+129,Eagle's Diner,a3,Apple Pie,American,15.0
+81,Eagle's Diner,a2,Chili Dog,American,6.05
+81,Eagle's Diner,h4,Chili Dog,American,6.15
+81,Eagle's Diner,b3,Apple Pie,American,6.8
+81,Eagle's Diner,h3,Fried Chicken,American,7.5
+81,Eagle's Diner,d3,Cobb Salad,American,10.13
+81,Eagle's Diner,b4,Cheeseburger,American,10.19
+81,Eagle's Diner,b2,Apple Pie,American,13.6
+81,Eagle's Diner,b5,Apple Pie,American,14.15
+81,Eagle's Diner,d1,Wings,American,14.59
+9,Eagle's Diner,d3,Wings,American,5.4
+9,Eagle's Diner,b4,Cobb Salad,American,6.44
+9,Eagle's Diner,a5,Wings,American,7.15
+9,Eagle's Diner,b3,Fried Chicken,American,7.79
+9,Eagle's Diner,a3,Fried Chicken,American,8.46
+9,Eagle's Diner,a4,Cobb Salad,American,9.09
+9,Eagle's Diner,a2,Apple Pie,American,9.58
+9,Eagle's Diner,h4,Chili Dog,American,10.81
+9,Eagle's Diner,d1,Chili Dog,American,11.53
+9,Eagle's Diner,a1,Apple Pie,American,14.83
+165,Liberty Lane,h4,Chili Dog,American,5.81
+165,Liberty Lane,b5,Apple Pie,American,6.86
+165,Liberty Lane,a3,Cobb Salad,American,8.75
+165,Liberty Lane,d2,Cobb Salad,American,9.97
+165,Liberty Lane,d3,Chili Dog,American,10.29
+165,Liberty Lane,b3,Wings,American,11.83
+165,Liberty Lane,b2,Chili Dog,American,13.27
+165,Liberty Lane,h5,Wings,American,14.27
+189,Liberty Lane,d5,Cheeseburger,American,6.95
+189,Liberty Lane,b4,Cobb Salad,American,8.27
+189,Liberty Lane,h1,Chili Dog,American,9.94
+189,Liberty Lane,h4,Cobb Salad,American,11.13
+189,Liberty Lane,d2,Wings,American,13.5
+189,Liberty Lane,a4,Chili Dog,American,14.57
+93,Liberty Lane,h1,Chili Dog,American,5.09
+93,Liberty Lane,a3,Fried Chicken,American,5.85
+93,Liberty Lane,h4,Cobb Salad,American,6.57
+93,Liberty Lane,a5,Fried Chicken,American,9.95
+93,Liberty Lane,a2,Fried Chicken,American,10.6
+93,Liberty Lane,a1,Wings,American,10.83
+93,Liberty Lane,h2,Chili Dog,American,14.64
+93,Liberty Lane,b1,Wings,American,14.66
+141,Route 66 Grill,d5,Cheeseburger,American,5.69
+141,Route 66 Grill,h3,Apple Pie,American,5.7
+141,Route 66 Grill,a4,Cobb Salad,American,7.03
+141,Route 66 Grill,h2,Apple Pie,American,7.79
+141,Route 66 Grill,h1,Cobb Salad,American,9.56
+141,Route 66 Grill,b2,Cobb Salad,American,11.84
+141,Route 66 Grill,d2,Cheeseburger,American,12.72
+141,Route 66 Grill,d1,Cheeseburger,American,13.28
+141,Route 66 Grill,a2,Wings,American,13.8
+21,Route 66 Grill,b4,Apple Pie,American,5.83
+21,Route 66 Grill,a3,Fried Chicken,American,5.97
+21,Route 66 Grill,d1,Chili Dog,American,8.89
+21,Route 66 Grill,h2,Cobb Salad,American,10.05
+21,Route 66 Grill,b1,Chili Dog,American,13.53
+21,Route 66 Grill,d2,Cobb Salad,American,14.35
+69,Route 66 Grill,d3,Cheeseburger,American,9.15
+69,Route 66 Grill,d2,Cobb Salad,American,9.22
+69,Route 66 Grill,h4,Cheeseburger,American,9.41
+69,Route 66 Grill,a2,Chili Dog,American,10.12
+69,Route 66 Grill,h2,Chili Dog,American,10.2
+69,Route 66 Grill,a3,Cheeseburger,American,11.43
+69,Route 66 Grill,b3,Chili Dog,American,11.47
+69,Route 66 Grill,b1,Cheeseburger,American,12.95
+69,Route 66 Grill,d1,Wings,American,13.01
+153,Star Spangled Burgers,b2,Chili Dog,American,5.32
+153,Star Spangled Burgers,a3,Cobb Salad,American,6.49
+153,Star Spangled Burgers,d1,Fried Chicken,American,7.15
+153,Star Spangled Burgers,a4,Apple Pie,American,10.86
+153,Star Spangled Burgers,h2,Cobb Salad,American,11.13
+153,Star Spangled Burgers,h1,Apple Pie,American,11.15
+153,Star Spangled Burgers,b1,Fried Chicken,American,12.49
+153,Star Spangled Burgers,a2,Fried Chicken,American,12.66
+153,Star Spangled Burgers,d3,Cobb Salad,American,12.68
+153,Star Spangled Burgers,b3,Chili Dog,American,13.87
+177,Star Spangled Burgers,b5,Chili Dog,American,5.18
+177,Star Spangled Burgers,h3,Cobb Salad,American,6.76
+177,Star Spangled Burgers,d1,Chili Dog,American,7.9
+177,Star Spangled Burgers,d2,Cheeseburger,American,11.35
+177,Star Spangled Burgers,a3,Apple Pie,American,12.93
+177,Star Spangled Burgers,d3,Chili Dog,American,13.71
+33,Star Spangled Burgers,a4,Fried Chicken,American,8.45
+33,Star Spangled Burgers,h3,Cobb Salad,American,9.27
+33,Star Spangled Burgers,h4,Fried Chicken,American,10.85
+33,Star Spangled Burgers,a1,Wings,American,11.2
+33,Star Spangled Burgers,h5,Cheeseburger,American,11.96
+33,Star Spangled Burgers,b1,Wings,American,12.26
+33,Star Spangled Burgers,b3,Wings,American,13.82
+33,Star Spangled Burgers,d1,Wings,American,14.26
+33,Star Spangled Burgers,d3,Apple Pie,American,14.27
+33,Star Spangled Burgers,b2,Fried Chicken,American,14.33
+45,Star Spangled Burgers,b4,Fried Chicken,American,5.06
+45,Star Spangled Burgers,h3,Fried Chicken,American,8.76
+45,Star Spangled Burgers,d2,Apple Pie,American,9.39
+45,Star Spangled Burgers,h1,Chili Dog,American,14.73
+45,Star Spangled Burgers,d5,Cobb Salad,American,14.86
+57,Star Spangled Burgers,d1,Fried Chicken,American,6.08
+57,Star Spangled Burgers,b2,Fried Chicken,American,6.32
+57,Star Spangled Burgers,h1,Wings,American,7.11
+57,Star Spangled Burgers,h2,Cheeseburger,American,7.5
+57,Star Spangled Burgers,a2,Cheeseburger,American,8.11

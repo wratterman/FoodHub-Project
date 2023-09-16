@@ -1,0 +1,127 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+149,Bollywood Bistro,s1,Biryani,Indian,5.72
+149,Bollywood Bistro,d2,Biryani,Indian,6.83
+149,Bollywood Bistro,b4,Gulab Jamun,Indian,7.54
+149,Bollywood Bistro,d1,Naan,Indian,11.48
+149,Bollywood Bistro,b3,Gulab Jamun,Indian,13.66
+65,Bollywood Bistro,d4,Paneer Tikka,Indian,5.57
+65,Bollywood Bistro,c2,Paneer Tikka,Indian,5.67
+65,Bollywood Bistro,d2,Samosas,Indian,6.91
+65,Bollywood Bistro,b2,Gulab Jamun,Indian,10.4
+65,Bollywood Bistro,s3,Naan,Indian,12.81
+65,Bollywood Bistro,b3,Biryani,Indian,13.97
+65,Bollywood Bistro,c3,Naan,Indian,14.01
+77,Bollywood Bistro,d3,Paneer Tikka,Indian,5.12
+77,Bollywood Bistro,s2,Butter Chicken,Indian,5.97
+77,Bollywood Bistro,c2,Samosas,Indian,7.32
+77,Bollywood Bistro,d1,Gulab Jamun,Indian,8.07
+77,Bollywood Bistro,b2,Butter Chicken,Indian,8.79
+77,Bollywood Bistro,s3,Butter Chicken,Indian,12.11
+77,Bollywood Bistro,d4,Biryani,Indian,12.54
+77,Bollywood Bistro,b3,Butter Chicken,Indian,12.84
+77,Bollywood Bistro,c4,Butter Chicken,Indian,13.25
+77,Bollywood Bistro,c5,Naan,Indian,14.39
+77,Bollywood Bistro,c1,Samosas,Indian,14.79
+101,Saffron Lounge,c2,Butter Chicken,Indian,7.17
+101,Saffron Lounge,s5,Gulab Jamun,Indian,8.51
+101,Saffron Lounge,b2,Paneer Tikka,Indian,8.51
+101,Saffron Lounge,c1,Biryani,Indian,11.74
+101,Saffron Lounge,s3,Samosas,Indian,12.76
+101,Saffron Lounge,d3,Samosas,Indian,13.02
+101,Saffron Lounge,s1,Butter Chicken,Indian,14.39
+101,Saffron Lounge,d2,Gulab Jamun,Indian,14.63
+101,Saffron Lounge,d4,Naan,Indian,14.76
+113,Saffron Lounge,c3,Naan,Indian,8.24
+113,Saffron Lounge,s3,Paneer Tikka,Indian,9.14
+113,Saffron Lounge,b4,Naan,Indian,10.17
+113,Saffron Lounge,d1,Biryani,Indian,11.28
+113,Saffron Lounge,s1,Samosas,Indian,12.21
+113,Saffron Lounge,s2,Gulab Jamun,Indian,13.02
+113,Saffron Lounge,b1,Naan,Indian,13.05
+161,Saffron Lounge,b4,Biryani,Indian,5.14
+161,Saffron Lounge,c1,Paneer Tikka,Indian,5.18
+161,Saffron Lounge,b2,Biryani,Indian,5.31
+161,Saffron Lounge,s3,Biryani,Indian,6.53
+161,Saffron Lounge,c2,Naan,Indian,6.57
+161,Saffron Lounge,d1,Butter Chicken,Indian,7.41
+161,Saffron Lounge,d3,Butter Chicken,Indian,10.53
+161,Saffron Lounge,c3,Naan,Indian,11.67
+161,Saffron Lounge,s1,Biryani,Indian,13.28
+161,Saffron Lounge,d4,Gulab Jamun,Indian,14.13
+17,Saffron Lounge,d1,Paneer Tikka,Indian,8.65
+17,Saffron Lounge,b3,Paneer Tikka,Indian,8.67
+17,Saffron Lounge,d3,Biryani,Indian,9.25
+17,Saffron Lounge,s1,Paneer Tikka,Indian,10.38
+17,Saffron Lounge,c1,Paneer Tikka,Indian,14.43
+185,Saffron Lounge,d4,Butter Chicken,Indian,5.09
+185,Saffron Lounge,d3,Biryani,Indian,5.86
+185,Saffron Lounge,c3,Naan,Indian,7.77
+185,Saffron Lounge,b1,Paneer Tikka,Indian,8.12
+185,Saffron Lounge,d5,Samosas,Indian,8.85
+185,Saffron Lounge,d2,Samosas,Indian,9.62
+185,Saffron Lounge,s3,Paneer Tikka,Indian,10.22
+185,Saffron Lounge,c2,Paneer Tikka,Indian,12.24
+185,Saffron Lounge,s4,Paneer Tikka,Indian,14.6
+185,Saffron Lounge,c4,Gulab Jamun,Indian,14.65
+125,Spice Route,c3,Naan,Indian,7.71
+125,Spice Route,b3,Gulab Jamun,Indian,7.86
+125,Spice Route,c4,Naan,Indian,7.92
+125,Spice Route,d1,Samosas,Indian,9.9
+125,Spice Route,c2,Biryani,Indian,11.23
+125,Spice Route,c1,Samosas,Indian,11.66
+53,Spice Route,d2,Paneer Tikka,Indian,6.37
+53,Spice Route,s3,Biryani,Indian,7.01
+53,Spice Route,b5,Biryani,Indian,7.33
+53,Spice Route,c1,Samosas,Indian,7.35
+53,Spice Route,b1,Paneer Tikka,Indian,9.39
+53,Spice Route,s2,Gulab Jamun,Indian,11.76
+53,Spice Route,d3,Paneer Tikka,Indian,12.56
+89,Spice Route,b2,Biryani,Indian,6.79
+89,Spice Route,d3,Paneer Tikka,Indian,6.87
+89,Spice Route,c4,Butter Chicken,Indian,7.86
+89,Spice Route,c3,Naan,Indian,8.03
+89,Spice Route,s1,Biryani,Indian,9.53
+89,Spice Route,c2,Naan,Indian,9.61
+89,Spice Route,d2,Biryani,Indian,11.62
+89,Spice Route,c1,Samosas,Indian,13.66
+89,Spice Route,d1,Naan,Indian,14.4
+137,Taj Curry House,d1,Butter Chicken,Indian,5.42
+137,Taj Curry House,d3,Naan,Indian,6.33
+137,Taj Curry House,s1,Butter Chicken,Indian,8.98
+137,Taj Curry House,b2,Naan,Indian,9.47
+137,Taj Curry House,d4,Samosas,Indian,9.6
+137,Taj Curry House,b3,Gulab Jamun,Indian,9.82
+137,Taj Curry House,c2,Butter Chicken,Indian,11.48
+137,Taj Curry House,d2,Naan,Indian,14.97
+173,Taj Curry House,b3,Samosas,Indian,5.44
+173,Taj Curry House,c4,Butter Chicken,Indian,5.84
+173,Taj Curry House,s2,Butter Chicken,Indian,8.43
+173,Taj Curry House,c2,Naan,Indian,11.37
+173,Taj Curry House,c3,Samosas,Indian,12.2
+173,Taj Curry House,c1,Gulab Jamun,Indian,13.94
+173,Taj Curry House,s3,Biryani,Indian,14.64
+29,Taj Curry House,d3,Samosas,Indian,5.23
+29,Taj Curry House,c1,Biryani,Indian,7.03
+29,Taj Curry House,c2,Butter Chicken,Indian,8.61
+29,Taj Curry House,d1,Gulab Jamun,Indian,8.9
+29,Taj Curry House,d2,Samosas,Indian,10.99
+29,Taj Curry House,s4,Naan,Indian,11.31
+29,Taj Curry House,c4,Gulab Jamun,Indian,11.39
+29,Taj Curry House,s3,Samosas,Indian,12.0
+29,Taj Curry House,b4,Gulab Jamun,Indian,12.63
+29,Taj Curry House,b1,Samosas,Indian,12.72
+41,Taj Curry House,s5,Samosas,Indian,5.89
+41,Taj Curry House,d5,Samosas,Indian,8.22
+41,Taj Curry House,c3,Naan,Indian,8.29
+41,Taj Curry House,c2,Biryani,Indian,8.53
+41,Taj Curry House,s3,Paneer Tikka,Indian,9.31
+41,Taj Curry House,b4,Butter Chicken,Indian,9.76
+41,Taj Curry House,d3,Gulab Jamun,Indian,10.44
+41,Taj Curry House,d1,Paneer Tikka,Indian,10.47
+41,Taj Curry House,d4,Naan,Indian,10.66
+41,Taj Curry House,d2,Butter Chicken,Indian,11.52
+5,Taj Curry House,d3,Naan,Indian,5.14
+5,Taj Curry House,d1,Gulab Jamun,Indian,6.26
+5,Taj Curry House,c2,Naan,Indian,10.31
+5,Taj Curry House,d2,Paneer Tikka,Indian,10.82
+5,Taj Curry House,b2,Samosas,Indian,12.98

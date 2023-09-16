@@ -1,0 +1,128 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+111,Casa de Tacos,m2,Chicken Taco,Mexican,8.46
+111,Casa de Tacos,d3,Chicken Taco,Mexican,9.81
+111,Casa de Tacos,s5,Nachos,Mexican,10.52
+111,Casa de Tacos,t2,Quesadilla,Mexican,10.57
+111,Casa de Tacos,s4,Fajitas,Mexican,10.59
+111,Casa de Tacos,s2,Chicken Taco,Mexican,12.12
+111,Casa de Tacos,t3,Chicken Taco,Mexican,12.27
+111,Casa de Tacos,s1,Fajitas,Mexican,13.03
+27,Casa de Tacos,m2,Nachos,Mexican,7.77
+27,Casa de Tacos,s4,Burrito,Mexican,8.32
+27,Casa de Tacos,t2,Chicken Taco,Mexican,9.91
+27,Casa de Tacos,d1,Burrito,Mexican,12.54
+27,Casa de Tacos,s2,Churros,Mexican,12.66
+27,Casa de Tacos,m1,Fajitas,Mexican,13.68
+27,Casa de Tacos,t3,Burrito,Mexican,14.32
+3,Casa de Tacos,d4,Burrito,Mexican,7.38
+3,Casa de Tacos,t1,Churros,Mexican,7.62
+3,Casa de Tacos,t4,Chicken Taco,Mexican,7.78
+3,Casa de Tacos,s1,Fajitas,Mexican,8.0
+3,Casa de Tacos,d3,Burrito,Mexican,8.08
+3,Casa de Tacos,m1,Churros,Mexican,8.36
+3,Casa de Tacos,t2,Churros,Mexican,8.53
+3,Casa de Tacos,s5,Churros,Mexican,8.7
+3,Casa de Tacos,s4,Fajitas,Mexican,9.83
+3,Casa de Tacos,t3,Nachos,Mexican,10.03
+3,Casa de Tacos,m3,Burrito,Mexican,10.1
+3,Casa de Tacos,d2,Burrito,Mexican,10.92
+3,Casa de Tacos,d5,Churros,Mexican,14.45
+51,Casa de Tacos,s2,Chicken Taco,Mexican,6.31
+51,Casa de Tacos,t1,Chicken Taco,Mexican,8.62
+51,Casa de Tacos,d3,Quesadilla,Mexican,8.85
+51,Casa de Tacos,m3,Chicken Taco,Mexican,8.89
+51,Casa de Tacos,d2,Chicken Taco,Mexican,8.95
+51,Casa de Tacos,d1,Quesadilla,Mexican,11.76
+51,Casa de Tacos,t2,Nachos,Mexican,14.83
+87,Casa de Tacos,t4,Nachos,Mexican,5.51
+87,Casa de Tacos,t3,Chicken Taco,Mexican,7.04
+87,Casa de Tacos,m5,Quesadilla,Mexican,8.25
+87,Casa de Tacos,s4,Chicken Taco,Mexican,13.02
+87,Casa de Tacos,d1,Churros,Mexican,13.38
+87,Casa de Tacos,d2,Churros,Mexican,14.51
+87,Casa de Tacos,d3,Fajitas,Mexican,14.53
+87,Casa de Tacos,d4,Burrito,Mexican,14.94
+99,Casa de Tacos,m1,Quesadilla,Mexican,7.3
+99,Casa de Tacos,d1,Churros,Mexican,7.81
+99,Casa de Tacos,s1,Churros,Mexican,8.47
+99,Casa de Tacos,d4,Fajitas,Mexican,8.64
+99,Casa de Tacos,t2,Fajitas,Mexican,9.16
+99,Casa de Tacos,t1,Nachos,Mexican,10.57
+99,Casa de Tacos,d3,Fajitas,Mexican,14.19
+123,Chili Pepper,m2,Chicken Taco,Mexican,5.21
+123,Chili Pepper,m4,Nachos,Mexican,9.94
+123,Chili Pepper,m3,Nachos,Mexican,10.02
+123,Chili Pepper,t4,Fajitas,Mexican,10.04
+123,Chili Pepper,t3,Burrito,Mexican,10.81
+123,Chili Pepper,s3,Fajitas,Mexican,10.94
+123,Chili Pepper,d2,Burrito,Mexican,13.76
+123,Chili Pepper,d3,Nachos,Mexican,14.51
+123,Chili Pepper,t1,Burrito,Mexican,14.52
+147,Chili Pepper,t3,Nachos,Mexican,5.91
+147,Chili Pepper,m3,Fajitas,Mexican,8.34
+147,Chili Pepper,t1,Quesadilla,Mexican,8.65
+147,Chili Pepper,d4,Fajitas,Mexican,8.92
+147,Chili Pepper,m1,Burrito,Mexican,9.99
+147,Chili Pepper,d2,Fajitas,Mexican,11.93
+147,Chili Pepper,m2,Quesadilla,Mexican,14.43
+63,Chili Pepper,s1,Churros,Mexican,7.05
+63,Chili Pepper,d2,Churros,Mexican,7.56
+63,Chili Pepper,m4,Fajitas,Mexican,11.06
+63,Chili Pepper,m1,Fajitas,Mexican,12.11
+63,Chili Pepper,d3,Churros,Mexican,12.14
+63,Chili Pepper,t2,Fajitas,Mexican,12.62
+63,Chili Pepper,t4,Fajitas,Mexican,14.2
+63,Chili Pepper,s3,Nachos,Mexican,14.84
+183,Fiesta Cantina,m2,Fajitas,Mexican,5.95
+183,Fiesta Cantina,d1,Fajitas,Mexican,6.4
+183,Fiesta Cantina,t3,Burrito,Mexican,7.03
+183,Fiesta Cantina,d3,Burrito,Mexican,7.13
+183,Fiesta Cantina,s4,Fajitas,Mexican,9.72
+183,Fiesta Cantina,t1,Chicken Taco,Mexican,11.26
+183,Fiesta Cantina,m1,Burrito,Mexican,14.15
+183,Fiesta Cantina,s5,Churros,Mexican,14.36
+75,Fiesta Cantina,d3,Churros,Mexican,5.57
+75,Fiesta Cantina,d2,Fajitas,Mexican,6.87
+75,Fiesta Cantina,s2,Chicken Taco,Mexican,7.29
+75,Fiesta Cantina,d1,Quesadilla,Mexican,7.68
+75,Fiesta Cantina,t3,Churros,Mexican,8.23
+75,Fiesta Cantina,d4,Churros,Mexican,8.97
+75,Fiesta Cantina,s5,Nachos,Mexican,9.77
+75,Fiesta Cantina,t1,Burrito,Mexican,10.78
+75,Fiesta Cantina,m2,Fajitas,Mexican,11.64
+135,Margarita's,d2,Nachos,Mexican,5.42
+135,Margarita's,t2,Quesadilla,Mexican,6.88
+135,Margarita's,d4,Churros,Mexican,7.59
+135,Margarita's,t3,Chicken Taco,Mexican,9.76
+135,Margarita's,s3,Chicken Taco,Mexican,10.24
+135,Margarita's,m2,Nachos,Mexican,10.33
+135,Margarita's,d3,Chicken Taco,Mexican,10.94
+135,Margarita's,m5,Chicken Taco,Mexican,12.33
+15,Margarita's,d2,Chicken Taco,Mexican,7.57
+15,Margarita's,s2,Churros,Mexican,8.9
+15,Margarita's,d1,Churros,Mexican,10.44
+15,Margarita's,d3,Burrito,Mexican,11.75
+15,Margarita's,m3,Quesadilla,Mexican,12.93
+15,Margarita's,t2,Churros,Mexican,13.42
+159,Margarita's,d2,Chicken Taco,Mexican,8.73
+159,Margarita's,m4,Chicken Taco,Mexican,8.97
+159,Margarita's,s2,Burrito,Mexican,9.58
+159,Margarita's,m2,Fajitas,Mexican,9.66
+159,Margarita's,d4,Quesadilla,Mexican,10.77
+159,Margarita's,t4,Chicken Taco,Mexican,12.48
+159,Margarita's,t3,Burrito,Mexican,13.18
+171,Margarita's,m1,Quesadilla,Mexican,6.32
+171,Margarita's,m5,Quesadilla,Mexican,6.99
+171,Margarita's,m2,Burrito,Mexican,7.12
+171,Margarita's,s2,Churros,Mexican,8.09
+171,Margarita's,d5,Burrito,Mexican,8.28
+171,Margarita's,t3,Chicken Taco,Mexican,8.72
+171,Margarita's,m4,Fajitas,Mexican,12.97
+171,Margarita's,d1,Quesadilla,Mexican,13.56
+39,Margarita's,s4,Burrito,Mexican,5.95
+39,Margarita's,s5,Churros,Mexican,6.49
+39,Margarita's,d3,Fajitas,Mexican,6.78
+39,Margarita's,t2,Quesadilla,Mexican,8.93
+39,Margarita's,s2,Quesadilla,Mexican,10.41
+39,Margarita's,t5,Chicken Taco,Mexican,11.01
+39,Margarita's,t1,Chicken Taco,Mexican,13.71

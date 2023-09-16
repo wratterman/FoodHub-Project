@@ -1,0 +1,126 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+107,Hanoi House,n4,Banh Mi,Vietnamese,5.14
+107,Hanoi House,d2,Pho,Vietnamese,5.57
+107,Hanoi House,r4,Che,Vietnamese,5.79
+107,Hanoi House,r1,Bun Thit Nuong,Vietnamese,7.59
+107,Hanoi House,r2,Banh Mi,Vietnamese,8.18
+107,Hanoi House,d4,Pho,Vietnamese,8.25
+107,Hanoi House,s1,Banh Mi,Vietnamese,9.78
+107,Hanoi House,s2,Banh Mi,Vietnamese,12.33
+107,Hanoi House,s4,Banh Mi,Vietnamese,13.31
+107,Hanoi House,d3,Lemongrass Chicken,Vietnamese,13.84
+155,Hanoi House,s2,Pho,Vietnamese,5.54
+155,Hanoi House,d4,Spring Rolls,Vietnamese,6.31
+155,Hanoi House,r5,Che,Vietnamese,8.08
+155,Hanoi House,n3,Banh Mi,Vietnamese,9.09
+155,Hanoi House,n1,Che,Vietnamese,9.28
+155,Hanoi House,r3,Che,Vietnamese,14.75
+155,Hanoi House,n2,Banh Mi,Vietnamese,14.81
+23,Hanoi House,n2,Bun Thit Nuong,Vietnamese,5.73
+23,Hanoi House,r5,Banh Mi,Vietnamese,7.94
+23,Hanoi House,r4,Bun Thit Nuong,Vietnamese,8.19
+23,Hanoi House,r2,Che,Vietnamese,8.4
+23,Hanoi House,d2,Pho,Vietnamese,8.58
+23,Hanoi House,s2,Che,Vietnamese,11.55
+23,Hanoi House,d4,Pho,Vietnamese,14.05
+11,Lotus Leaf,n3,Spring Rolls,Vietnamese,6.76
+11,Lotus Leaf,r3,Bun Thit Nuong,Vietnamese,7.59
+11,Lotus Leaf,n1,Bun Thit Nuong,Vietnamese,7.95
+11,Lotus Leaf,r4,Pho,Vietnamese,11.61
+11,Lotus Leaf,d3,Bun Thit Nuong,Vietnamese,12.15
+11,Lotus Leaf,s1,Che,Vietnamese,13.35
+11,Lotus Leaf,d1,Banh Mi,Vietnamese,14.71
+143,Lotus Leaf,s2,Spring Rolls,Vietnamese,5.06
+143,Lotus Leaf,r1,Lemongrass Chicken,Vietnamese,6.33
+143,Lotus Leaf,n1,Pho,Vietnamese,7.69
+143,Lotus Leaf,s3,Lemongrass Chicken,Vietnamese,10.39
+143,Lotus Leaf,d2,Che,Vietnamese,10.77
+143,Lotus Leaf,s1,Pho,Vietnamese,13.74
+143,Lotus Leaf,n3,Che,Vietnamese,13.75
+143,Lotus Leaf,d3,Spring Rolls,Vietnamese,14.53
+71,Lotus Leaf,r3,Lemongrass Chicken,Vietnamese,5.57
+71,Lotus Leaf,s3,Pho,Vietnamese,6.41
+71,Lotus Leaf,s4,Lemongrass Chicken,Vietnamese,6.44
+71,Lotus Leaf,n3,Pho,Vietnamese,6.64
+71,Lotus Leaf,d3,Pho,Vietnamese,6.78
+71,Lotus Leaf,n1,Lemongrass Chicken,Vietnamese,9.0
+71,Lotus Leaf,d2,Bun Thit Nuong,Vietnamese,9.05
+71,Lotus Leaf,s5,Banh Mi,Vietnamese,11.91
+83,Lotus Leaf,d2,Lemongrass Chicken,Vietnamese,5.23
+83,Lotus Leaf,n1,Che,Vietnamese,5.37
+83,Lotus Leaf,s3,Bun Thit Nuong,Vietnamese,7.59
+83,Lotus Leaf,r1,Spring Rolls,Vietnamese,8.12
+83,Lotus Leaf,n2,Che,Vietnamese,8.13
+83,Lotus Leaf,s2,Spring Rolls,Vietnamese,8.41
+83,Lotus Leaf,d4,Che,Vietnamese,11.23
+83,Lotus Leaf,r2,Bun Thit Nuong,Vietnamese,14.78
+47,Pho Pho Pho,d1,Che,Vietnamese,5.06
+47,Pho Pho Pho,d2,Che,Vietnamese,7.78
+47,Pho Pho Pho,n1,Lemongrass Chicken,Vietnamese,8.14
+47,Pho Pho Pho,n2,Lemongrass Chicken,Vietnamese,8.56
+47,Pho Pho Pho,r1,Lemongrass Chicken,Vietnamese,9.03
+47,Pho Pho Pho,s1,Che,Vietnamese,9.71
+47,Pho Pho Pho,s2,Bun Thit Nuong,Vietnamese,12.45
+47,Pho Pho Pho,s4,Lemongrass Chicken,Vietnamese,13.78
+59,Pho Pho Pho,s1,Spring Rolls,Vietnamese,5.81
+59,Pho Pho Pho,s2,Lemongrass Chicken,Vietnamese,6.73
+59,Pho Pho Pho,n3,Banh Mi,Vietnamese,7.62
+59,Pho Pho Pho,r4,Pho,Vietnamese,9.34
+59,Pho Pho Pho,d3,Banh Mi,Vietnamese,9.82
+59,Pho Pho Pho,n1,Bun Thit Nuong,Vietnamese,10.91
+59,Pho Pho Pho,r1,Pho,Vietnamese,12.83
+119,Saigon Street,d3,Lemongrass Chicken,Vietnamese,6.31
+119,Saigon Street,n4,Pho,Vietnamese,6.81
+119,Saigon Street,s4,Che,Vietnamese,7.97
+119,Saigon Street,s5,Spring Rolls,Vietnamese,9.33
+119,Saigon Street,d4,Che,Vietnamese,9.77
+119,Saigon Street,r2,Spring Rolls,Vietnamese,14.12
+131,Saigon Street,n2,Spring Rolls,Vietnamese,5.88
+131,Saigon Street,r3,Pho,Vietnamese,6.1
+131,Saigon Street,s2,Pho,Vietnamese,7.78
+131,Saigon Street,r1,Che,Vietnamese,8.69
+131,Saigon Street,d3,Lemongrass Chicken,Vietnamese,8.75
+131,Saigon Street,d1,Banh Mi,Vietnamese,12.15
+131,Saigon Street,n3,Pho,Vietnamese,13.13
+131,Saigon Street,d4,Pho,Vietnamese,13.94
+167,Saigon Street,d1,Pho,Vietnamese,6.01
+167,Saigon Street,s3,Bun Thit Nuong,Vietnamese,6.42
+167,Saigon Street,s5,Banh Mi,Vietnamese,6.47
+167,Saigon Street,r1,Bun Thit Nuong,Vietnamese,6.57
+167,Saigon Street,n2,Che,Vietnamese,7.77
+167,Saigon Street,r4,Lemongrass Chicken,Vietnamese,8.56
+167,Saigon Street,r2,Lemongrass Chicken,Vietnamese,10.64
+167,Saigon Street,n1,Bun Thit Nuong,Vietnamese,11.54
+179,Saigon Street,n2,Lemongrass Chicken,Vietnamese,5.23
+179,Saigon Street,d2,Spring Rolls,Vietnamese,6.74
+179,Saigon Street,n1,Spring Rolls,Vietnamese,7.06
+179,Saigon Street,n3,Spring Rolls,Vietnamese,9.66
+179,Saigon Street,s3,Che,Vietnamese,10.12
+179,Saigon Street,r1,Lemongrass Chicken,Vietnamese,11.0
+179,Saigon Street,r2,Bun Thit Nuong,Vietnamese,14.13
+191,Saigon Street,d2,Banh Mi,Vietnamese,5.04
+191,Saigon Street,n4,Bun Thit Nuong,Vietnamese,6.24
+191,Saigon Street,s2,Bun Thit Nuong,Vietnamese,6.63
+191,Saigon Street,d1,Banh Mi,Vietnamese,6.98
+191,Saigon Street,n2,Lemongrass Chicken,Vietnamese,7.65
+191,Saigon Street,r5,Banh Mi,Vietnamese,8.09
+191,Saigon Street,d3,Lemongrass Chicken,Vietnamese,10.45
+191,Saigon Street,s3,Banh Mi,Vietnamese,12.73
+191,Saigon Street,r4,Spring Rolls,Vietnamese,14.28
+191,Saigon Street,r2,Spring Rolls,Vietnamese,14.33
+35,Saigon Street,d2,Che,Vietnamese,5.47
+35,Saigon Street,n3,Che,Vietnamese,6.6
+35,Saigon Street,d1,Che,Vietnamese,8.89
+35,Saigon Street,d3,Pho,Vietnamese,9.45
+35,Saigon Street,r3,Bun Thit Nuong,Vietnamese,9.47
+35,Saigon Street,s1,Che,Vietnamese,9.47
+35,Saigon Street,s5,Pho,Vietnamese,10.12
+35,Saigon Street,r1,Lemongrass Chicken,Vietnamese,10.19
+35,Saigon Street,s2,Bun Thit Nuong,Vietnamese,14.99
+95,Saigon Street,d3,Pho,Vietnamese,5.11
+95,Saigon Street,n3,Lemongrass Chicken,Vietnamese,5.71
+95,Saigon Street,r1,Bun Thit Nuong,Vietnamese,6.49
+95,Saigon Street,n2,Banh Mi,Vietnamese,6.63
+95,Saigon Street,r4,Bun Thit Nuong,Vietnamese,7.1
+95,Saigon Street,d2,Bun Thit Nuong,Vietnamese,10.82
+95,Saigon Street,s1,Lemongrass Chicken,Vietnamese,13.35

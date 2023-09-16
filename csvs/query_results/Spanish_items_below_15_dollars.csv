@@ -1,0 +1,138 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+108,Barcelona Bites,d3,Tortilla Española,Spanish,5.88
+108,Barcelona Bites,t2,Churros,Spanish,8.72
+108,Barcelona Bites,m3,Paella,Spanish,8.93
+108,Barcelona Bites,d5,Sangria,Spanish,9.23
+108,Barcelona Bites,m2,Churros,Spanish,11.83
+108,Barcelona Bites,t3,Churros,Spanish,12.57
+108,Barcelona Bites,t5,Tortilla Española,Spanish,13.51
+108,Barcelona Bites,s1,Churros,Spanish,13.52
+108,Barcelona Bites,d4,Gambas al Ajillo,Spanish,14.29
+96,Barcelona Bites,s3,Tortilla Española,Spanish,7.55
+96,Barcelona Bites,s2,Gambas al Ajillo,Spanish,9.57
+96,Barcelona Bites,d3,Patatas Bravas,Spanish,9.76
+96,Barcelona Bites,m5,Sangria,Spanish,10.2
+96,Barcelona Bites,t3,Gambas al Ajillo,Spanish,10.39
+96,Barcelona Bites,d4,Gambas al Ajillo,Spanish,10.83
+96,Barcelona Bites,d1,Paella,Spanish,11.21
+96,Barcelona Bites,t4,Tortilla Española,Spanish,11.75
+96,Barcelona Bites,s5,Tortilla Española,Spanish,12.93
+12,Paella Paradise,m1,Paella,Spanish,6.92
+12,Paella Paradise,s1,Churros,Spanish,7.01
+12,Paella Paradise,d3,Tortilla Española,Spanish,7.54
+12,Paella Paradise,d2,Gambas al Ajillo,Spanish,7.79
+12,Paella Paradise,t1,Churros,Spanish,8.67
+12,Paella Paradise,t4,Gambas al Ajillo,Spanish,8.91
+12,Paella Paradise,s2,Patatas Bravas,Spanish,9.64
+12,Paella Paradise,d5,Churros,Spanish,11.53
+12,Paella Paradise,t2,Paella,Spanish,12.12
+12,Paella Paradise,d1,Tortilla Española,Spanish,13.52
+12,Paella Paradise,m3,Tortilla Española,Spanish,13.58
+12,Paella Paradise,m2,Gambas al Ajillo,Spanish,14.93
+144,Paella Paradise,s5,Gambas al Ajillo,Spanish,5.29
+144,Paella Paradise,d4,Paella,Spanish,6.0
+144,Paella Paradise,t4,Sangria,Spanish,7.5
+144,Paella Paradise,d2,Paella,Spanish,9.17
+144,Paella Paradise,m1,Churros,Spanish,9.25
+144,Paella Paradise,d5,Paella,Spanish,10.64
+144,Paella Paradise,m3,Gambas al Ajillo,Spanish,11.67
+144,Paella Paradise,s4,Churros,Spanish,14.21
+156,Paella Paradise,s4,Tortilla Española,Spanish,5.36
+156,Paella Paradise,s2,Churros,Spanish,5.55
+156,Paella Paradise,m2,Gambas al Ajillo,Spanish,6.22
+156,Paella Paradise,s3,Paella,Spanish,7.39
+156,Paella Paradise,t2,Gambas al Ajillo,Spanish,7.73
+156,Paella Paradise,t1,Sangria,Spanish,8.39
+156,Paella Paradise,t3,Gambas al Ajillo,Spanish,8.42
+156,Paella Paradise,d4,Tortilla Española,Spanish,9.69
+156,Paella Paradise,d3,Tortilla Española,Spanish,10.81
+156,Paella Paradise,d5,Paella,Spanish,14.65
+60,Paella Paradise,t3,Churros,Spanish,7.37
+60,Paella Paradise,t4,Paella,Spanish,8.45
+60,Paella Paradise,s1,Tortilla Española,Spanish,9.35
+60,Paella Paradise,s2,Gambas al Ajillo,Spanish,10.21
+60,Paella Paradise,s3,Tortilla Española,Spanish,10.42
+60,Paella Paradise,m1,Churros,Spanish,10.94
+60,Paella Paradise,m2,Gambas al Ajillo,Spanish,11.73
+60,Paella Paradise,t2,Churros,Spanish,12.72
+24,Tapas Temptation,t4,Sangria,Spanish,6.56
+24,Tapas Temptation,t3,Churros,Spanish,6.71
+24,Tapas Temptation,m3,Paella,Spanish,8.17
+24,Tapas Temptation,d2,Patatas Bravas,Spanish,10.14
+24,Tapas Temptation,t2,Tortilla Española,Spanish,10.51
+24,Tapas Temptation,t1,Tortilla Española,Spanish,11.03
+24,Tapas Temptation,m5,Paella,Spanish,11.7
+24,Tapas Temptation,s2,Sangria,Spanish,14.86
+36,Tapas Temptation,d2,Patatas Bravas,Spanish,5.79
+36,Tapas Temptation,t3,Patatas Bravas,Spanish,7.32
+36,Tapas Temptation,t2,Patatas Bravas,Spanish,8.27
+36,Tapas Temptation,m1,Gambas al Ajillo,Spanish,8.85
+36,Tapas Temptation,t4,Sangria,Spanish,9.53
+36,Tapas Temptation,t1,Sangria,Spanish,9.63
+36,Tapas Temptation,d5,Sangria,Spanish,10.41
+36,Tapas Temptation,m4,Paella,Spanish,13.27
+36,Tapas Temptation,s1,Patatas Bravas,Spanish,14.16
+36,Tapas Temptation,d3,Churros,Spanish,14.31
+36,Tapas Temptation,m3,Sangria,Spanish,14.65
+48,Tapas Temptation,t3,Churros,Spanish,7.27
+48,Tapas Temptation,d2,Tortilla Española,Spanish,7.65
+48,Tapas Temptation,t1,Tortilla Española,Spanish,7.76
+48,Tapas Temptation,m3,Gambas al Ajillo,Spanish,8.29
+48,Tapas Temptation,t4,Churros,Spanish,8.47
+48,Tapas Temptation,s2,Sangria,Spanish,8.6
+48,Tapas Temptation,s5,Sangria,Spanish,9.51
+48,Tapas Temptation,s3,Gambas al Ajillo,Spanish,11.78
+48,Tapas Temptation,d5,Patatas Bravas,Spanish,13.28
+120,Valencia Vibes,t1,Paella,Spanish,6.4
+120,Valencia Vibes,d2,Paella,Spanish,7.86
+120,Valencia Vibes,d4,Gambas al Ajillo,Spanish,10.11
+120,Valencia Vibes,m3,Patatas Bravas,Spanish,11.57
+120,Valencia Vibes,s3,Paella,Spanish,11.62
+120,Valencia Vibes,d1,Churros,Spanish,13.46
+120,Valencia Vibes,s2,Tortilla Española,Spanish,13.48
+132,Valencia Vibes,m2,Sangria,Spanish,5.32
+132,Valencia Vibes,s3,Paella,Spanish,6.93
+132,Valencia Vibes,m1,Churros,Spanish,7.24
+132,Valencia Vibes,d2,Gambas al Ajillo,Spanish,7.52
+132,Valencia Vibes,t2,Gambas al Ajillo,Spanish,9.09
+132,Valencia Vibes,m4,Churros,Spanish,10.97
+132,Valencia Vibes,d4,Sangria,Spanish,11.13
+132,Valencia Vibes,d3,Tortilla Española,Spanish,12.55
+132,Valencia Vibes,m3,Churros,Spanish,12.56
+132,Valencia Vibes,s5,Patatas Bravas,Spanish,12.81
+132,Valencia Vibes,s1,Gambas al Ajillo,Spanish,13.1
+168,Valencia Vibes,d3,Tortilla Española,Spanish,7.03
+168,Valencia Vibes,s3,Churros,Spanish,7.22
+168,Valencia Vibes,d4,Paella,Spanish,9.49
+168,Valencia Vibes,m2,Gambas al Ajillo,Spanish,10.42
+168,Valencia Vibes,s2,Churros,Spanish,10.69
+168,Valencia Vibes,d2,Paella,Spanish,10.96
+168,Valencia Vibes,m1,Sangria,Spanish,11.16
+168,Valencia Vibes,t1,Gambas al Ajillo,Spanish,12.48
+168,Valencia Vibes,d1,Churros,Spanish,12.66
+168,Valencia Vibes,t3,Patatas Bravas,Spanish,13.25
+180,Valencia Vibes,d2,Paella,Spanish,5.89
+180,Valencia Vibes,s2,Paella,Spanish,7.12
+180,Valencia Vibes,m2,Paella,Spanish,7.18
+180,Valencia Vibes,m1,Churros,Spanish,8.53
+180,Valencia Vibes,t4,Sangria,Spanish,10.02
+180,Valencia Vibes,d4,Sangria,Spanish,11.48
+180,Valencia Vibes,s1,Sangria,Spanish,12.35
+180,Valencia Vibes,s3,Sangria,Spanish,12.77
+180,Valencia Vibes,t2,Gambas al Ajillo,Spanish,14.15
+180,Valencia Vibes,s4,Churros,Spanish,14.92
+72,Valencia Vibes,s2,Sangria,Spanish,5.76
+72,Valencia Vibes,m2,Tortilla Española,Spanish,6.47
+72,Valencia Vibes,s3,Tortilla Española,Spanish,6.81
+72,Valencia Vibes,t1,Paella,Spanish,7.12
+72,Valencia Vibes,d3,Gambas al Ajillo,Spanish,12.86
+72,Valencia Vibes,m1,Paella,Spanish,12.97
+72,Valencia Vibes,t2,Patatas Bravas,Spanish,13.13
+72,Valencia Vibes,t3,Sangria,Spanish,14.59
+84,Valencia Vibes,d3,Patatas Bravas,Spanish,6.95
+84,Valencia Vibes,t1,Paella,Spanish,8.1
+84,Valencia Vibes,m4,Tortilla Española,Spanish,11.29
+84,Valencia Vibes,s1,Tortilla Española,Spanish,12.32
+84,Valencia Vibes,m3,Gambas al Ajillo,Spanish,13.7
+84,Valencia Vibes,s3,Churros,Spanish,14.44
+84,Valencia Vibes,m2,Patatas Bravas,Spanish,14.58

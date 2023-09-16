@@ -89,6 +89,6 @@ BEGIN
         ON mi.item_id = i.id 
     WHERE c.name ilike cuisine_type
         AND i.price <= max_price
-    ORDER BY restaurant, restaurant_id, price ASC,menu_item;
+    ORDER BY restaurant, restaurant_id ASC, price ASC, menu_item;
 END;
 $$ LANGUAGE plpgsql;

@@ -1,0 +1,123 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+139,Bangkok Street,c1,Mango Sticky Rice,Thai,7.45
+139,Bangkok Street,n1,Green Curry,Thai,7.8
+139,Bangkok Street,d1,Green Curry,Thai,8.71
+139,Bangkok Street,c2,Tom Yum Soup,Thai,8.77
+139,Bangkok Street,d4,Mango Sticky Rice,Thai,11.65
+139,Bangkok Street,s4,Pad Thai,Thai,11.71
+139,Bangkok Street,c3,Green Curry,Thai,14.69
+175,Bangkok Street,d4,Pad Thai,Thai,5.85
+175,Bangkok Street,n1,Green Curry,Thai,7.31
+175,Bangkok Street,d5,Green Curry,Thai,8.82
+175,Bangkok Street,s3,Mango Sticky Rice,Thai,9.67
+175,Bangkok Street,s2,Spring Rolls,Thai,11.17
+175,Bangkok Street,d1,Mango Sticky Rice,Thai,11.56
+175,Bangkok Street,d2,Mango Sticky Rice,Thai,13.44
+187,Bangkok Street,d2,Mango Sticky Rice,Thai,6.31
+187,Bangkok Street,n5,Spring Rolls,Thai,6.49
+187,Bangkok Street,s3,Mango Sticky Rice,Thai,6.73
+187,Bangkok Street,d3,Pad Thai,Thai,6.97
+187,Bangkok Street,c4,Green Curry,Thai,8.88
+187,Bangkok Street,c3,Pad Thai,Thai,10.12
+187,Bangkok Street,c1,Green Curry,Thai,10.68
+187,Bangkok Street,n4,Spring Rolls,Thai,13.25
+187,Bangkok Street,c2,Mango Sticky Rice,Thai,13.62
+187,Bangkok Street,s2,Green Curry,Thai,14.11
+127,Chili Thai,s3,Spring Rolls,Thai,7.35
+127,Chili Thai,s1,Green Curry,Thai,8.87
+127,Chili Thai,d4,Spring Rolls,Thai,9.32
+127,Chili Thai,s4,Mango Sticky Rice,Thai,9.49
+127,Chili Thai,n1,Green Curry,Thai,10.58
+31,Chili Thai,c5,Green Curry,Thai,5.49
+31,Chili Thai,c2,Mango Sticky Rice,Thai,7.46
+31,Chili Thai,n3,Green Curry,Thai,9.09
+31,Chili Thai,n1,Tom Yum Soup,Thai,10.34
+31,Chili Thai,s3,Spring Rolls,Thai,10.55
+31,Chili Thai,d2,Green Curry,Thai,10.84
+31,Chili Thai,d4,Mango Sticky Rice,Thai,10.84
+31,Chili Thai,s4,Green Curry,Thai,11.61
+31,Chili Thai,d1,Mango Sticky Rice,Thai,11.93
+31,Chili Thai,c4,Spring Rolls,Thai,12.14
+31,Chili Thai,n2,Green Curry,Thai,12.67
+31,Chili Thai,c3,Green Curry,Thai,12.8
+55,Chili Thai,s1,Spring Rolls,Thai,5.01
+55,Chili Thai,s4,Mango Sticky Rice,Thai,6.61
+55,Chili Thai,s3,Spring Rolls,Thai,7.33
+55,Chili Thai,d4,Green Curry,Thai,10.19
+55,Chili Thai,s2,Green Curry,Thai,11.69
+55,Chili Thai,n2,Spring Rolls,Thai,12.22
+55,Chili Thai,d5,Green Curry,Thai,12.85
+55,Chili Thai,d1,Tom Yum Soup,Thai,13.71
+7,Chili Thai,s4,Mango Sticky Rice,Thai,6.01
+7,Chili Thai,n4,Pad Thai,Thai,6.03
+7,Chili Thai,c4,Mango Sticky Rice,Thai,9.45
+7,Chili Thai,d2,Pad Thai,Thai,10.44
+7,Chili Thai,c5,Pad Thai,Thai,12.1
+7,Chili Thai,s2,Mango Sticky Rice,Thai,12.94
+7,Chili Thai,n2,Green Curry,Thai,13.38
+7,Chili Thai,c2,Spring Rolls,Thai,13.41
+7,Chili Thai,d1,Spring Rolls,Thai,14.6
+79,Chili Thai,d3,Pad Thai,Thai,8.97
+79,Chili Thai,s1,Green Curry,Thai,10.07
+79,Chili Thai,n2,Spring Rolls,Thai,11.0
+79,Chili Thai,d2,Tom Yum Soup,Thai,11.94
+79,Chili Thai,c1,Spring Rolls,Thai,14.85
+91,Chili Thai,c4,Pad Thai,Thai,7.34
+91,Chili Thai,s3,Mango Sticky Rice,Thai,7.93
+91,Chili Thai,d3,Mango Sticky Rice,Thai,8.48
+91,Chili Thai,c3,Tom Yum Soup,Thai,10.8
+91,Chili Thai,d2,Tom Yum Soup,Thai,14.81
+115,Lemongrass Lane,c3,Tom Yum Soup,Thai,6.6
+115,Lemongrass Lane,d1,Tom Yum Soup,Thai,6.69
+115,Lemongrass Lane,s3,Pad Thai,Thai,7.14
+115,Lemongrass Lane,d2,Mango Sticky Rice,Thai,7.42
+115,Lemongrass Lane,c5,Mango Sticky Rice,Thai,8.88
+115,Lemongrass Lane,d4,Tom Yum Soup,Thai,9.34
+115,Lemongrass Lane,c1,Mango Sticky Rice,Thai,10.66
+115,Lemongrass Lane,s2,Spring Rolls,Thai,11.83
+115,Lemongrass Lane,n1,Spring Rolls,Thai,12.35
+115,Lemongrass Lane,s1,Green Curry,Thai,13.54
+151,Lemongrass Lane,s1,Tom Yum Soup,Thai,5.21
+151,Lemongrass Lane,s2,Spring Rolls,Thai,7.23
+151,Lemongrass Lane,n2,Pad Thai,Thai,9.68
+151,Lemongrass Lane,d2,Tom Yum Soup,Thai,11.07
+151,Lemongrass Lane,n1,Pad Thai,Thai,13.3
+151,Lemongrass Lane,d4,Tom Yum Soup,Thai,14.27
+151,Lemongrass Lane,s3,Green Curry,Thai,14.89
+151,Lemongrass Lane,c3,Tom Yum Soup,Thai,14.98
+163,Lemongrass Lane,s1,Mango Sticky Rice,Thai,5.42
+163,Lemongrass Lane,c3,Green Curry,Thai,5.73
+163,Lemongrass Lane,d3,Green Curry,Thai,6.59
+163,Lemongrass Lane,s4,Mango Sticky Rice,Thai,10.71
+163,Lemongrass Lane,n5,Mango Sticky Rice,Thai,11.58
+163,Lemongrass Lane,s5,Spring Rolls,Thai,11.8
+163,Lemongrass Lane,c2,Pad Thai,Thai,14.77
+163,Lemongrass Lane,s3,Spring Rolls,Thai,15.0
+19,Lemongrass Lane,c1,Spring Rolls,Thai,5.15
+19,Lemongrass Lane,d1,Tom Yum Soup,Thai,14.03
+43,Lemongrass Lane,s5,Mango Sticky Rice,Thai,7.0
+43,Lemongrass Lane,s4,Tom Yum Soup,Thai,7.09
+43,Lemongrass Lane,d3,Tom Yum Soup,Thai,7.56
+43,Lemongrass Lane,c2,Spring Rolls,Thai,7.69
+43,Lemongrass Lane,s2,Spring Rolls,Thai,8.86
+43,Lemongrass Lane,n2,Spring Rolls,Thai,9.24
+43,Lemongrass Lane,s1,Green Curry,Thai,11.12
+43,Lemongrass Lane,d1,Tom Yum Soup,Thai,11.68
+43,Lemongrass Lane,d4,Mango Sticky Rice,Thai,13.36
+67,Lemongrass Lane,d2,Spring Rolls,Thai,5.02
+67,Lemongrass Lane,s3,Pad Thai,Thai,5.38
+67,Lemongrass Lane,n1,Tom Yum Soup,Thai,6.26
+67,Lemongrass Lane,d1,Mango Sticky Rice,Thai,7.03
+67,Lemongrass Lane,s2,Pad Thai,Thai,7.21
+67,Lemongrass Lane,c5,Green Curry,Thai,8.79
+67,Lemongrass Lane,c3,Spring Rolls,Thai,9.09
+67,Lemongrass Lane,c1,Spring Rolls,Thai,10.92
+67,Lemongrass Lane,d3,Tom Yum Soup,Thai,14.57
+103,Pad Thai Pavilion,d4,Tom Yum Soup,Thai,6.24
+103,Pad Thai Pavilion,n1,Pad Thai,Thai,6.25
+103,Pad Thai Pavilion,s2,Mango Sticky Rice,Thai,6.48
+103,Pad Thai Pavilion,n3,Mango Sticky Rice,Thai,9.79
+103,Pad Thai Pavilion,n2,Pad Thai,Thai,9.93
+103,Pad Thai Pavilion,c1,Tom Yum Soup,Thai,12.3
+103,Pad Thai Pavilion,c2,Pad Thai,Thai,13.07
+103,Pad Thai Pavilion,s4,Green Curry,Thai,14.16

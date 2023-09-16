@@ -1,0 +1,121 @@
+restaurant_id,restaurant,product_id,menu_item,cuisine,price
+121,Il Forno,s1,Spaghetti,Italian,6.0
+121,Il Forno,s2,Margherita Pizza,Italian,6.39
+121,Il Forno,p3,Ravioli,Italian,9.64
+121,Il Forno,a1,Margherita Pizza,Italian,9.75
+121,Il Forno,d2,Bruschetta,Italian,13.46
+121,Il Forno,p1,Ravioli,Italian,13.79
+133,Il Forno,a2,Spaghetti,Italian,5.37
+133,Il Forno,s2,Bruschetta,Italian,6.04
+133,Il Forno,s3,Ravioli,Italian,6.54
+133,Il Forno,p5,Ravioli,Italian,6.93
+133,Il Forno,p1,Spaghetti,Italian,6.98
+133,Il Forno,a4,Spaghetti,Italian,7.63
+133,Il Forno,s1,Bruschetta,Italian,8.54
+133,Il Forno,d3,Spaghetti,Italian,8.62
+133,Il Forno,s4,Tiramisu,Italian,9.04
+133,Il Forno,p4,Ravioli,Italian,13.69
+133,Il Forno,s5,Ravioli,Italian,13.81
+181,Il Forno,d2,Ravioli,Italian,7.38
+181,Il Forno,p1,Bruschetta,Italian,8.16
+181,Il Forno,p4,Bruschetta,Italian,8.2
+181,Il Forno,s2,Bruschetta,Italian,8.87
+181,Il Forno,a1,Spaghetti,Italian,10.02
+181,Il Forno,p3,Lasagna,Italian,10.65
+181,Il Forno,d4,Ravioli,Italian,12.36
+181,Il Forno,a4,Bruschetta,Italian,12.82
+37,Il Forno,a2,Lasagna,Italian,6.09
+37,Il Forno,s2,Margherita Pizza,Italian,6.4
+37,Il Forno,d3,Spaghetti,Italian,6.44
+37,Il Forno,a3,Bruschetta,Italian,8.02
+37,Il Forno,a1,Lasagna,Italian,8.77
+37,Il Forno,s1,Margherita Pizza,Italian,10.45
+37,Il Forno,p3,Lasagna,Italian,11.77
+37,Il Forno,p5,Spaghetti,Italian,14.16
+61,Il Forno,s4,Lasagna,Italian,5.72
+61,Il Forno,a3,Lasagna,Italian,5.88
+61,Il Forno,d4,Tiramisu,Italian,5.93
+61,Il Forno,d5,Spaghetti,Italian,7.33
+61,Il Forno,p4,Spaghetti,Italian,8.35
+61,Il Forno,a1,Ravioli,Italian,8.85
+61,Il Forno,p3,Lasagna,Italian,10.5
+61,Il Forno,a2,Margherita Pizza,Italian,11.22
+61,Il Forno,p2,Tiramisu,Italian,13.57
+73,Il Forno,a1,Ravioli,Italian,5.94
+73,Il Forno,d1,Tiramisu,Italian,8.17
+73,Il Forno,d3,Margherita Pizza,Italian,10.39
+73,Il Forno,s3,Tiramisu,Italian,10.42
+73,Il Forno,a2,Spaghetti,Italian,11.18
+73,Il Forno,a4,Tiramisu,Italian,11.29
+73,Il Forno,d4,Margherita Pizza,Italian,13.62
+97,Il Forno,a2,Ravioli,Italian,5.34
+97,Il Forno,d2,Lasagna,Italian,6.84
+97,Il Forno,a4,Spaghetti,Italian,8.4
+97,Il Forno,a3,Spaghetti,Italian,8.52
+97,Il Forno,d1,Lasagna,Italian,9.18
+97,Il Forno,d4,Spaghetti,Italian,10.34
+97,Il Forno,p1,Ravioli,Italian,12.17
+97,Il Forno,p4,Bruschetta,Italian,13.12
+97,Il Forno,a1,Ravioli,Italian,13.79
+97,Il Forno,p5,Bruschetta,Italian,14.82
+13,Pasta Fresca,d4,Tiramisu,Italian,6.63
+13,Pasta Fresca,a1,Bruschetta,Italian,9.91
+13,Pasta Fresca,s3,Tiramisu,Italian,10.17
+13,Pasta Fresca,s2,Bruschetta,Italian,10.68
+13,Pasta Fresca,d2,Spaghetti,Italian,13.2
+13,Pasta Fresca,p4,Lasagna,Italian,14.02
+25,Pasta Fresca,p2,Spaghetti,Italian,6.38
+25,Pasta Fresca,d1,Tiramisu,Italian,9.46
+25,Pasta Fresca,d2,Spaghetti,Italian,14.65
+85,Pasta Fresca,s1,Ravioli,Italian,5.34
+85,Pasta Fresca,a2,Ravioli,Italian,6.76
+85,Pasta Fresca,d4,Ravioli,Italian,7.69
+85,Pasta Fresca,s3,Tiramisu,Italian,9.2
+85,Pasta Fresca,a4,Ravioli,Italian,9.24
+85,Pasta Fresca,p1,Lasagna,Italian,11.42
+85,Pasta Fresca,p2,Margherita Pizza,Italian,11.83
+85,Pasta Fresca,s2,Bruschetta,Italian,12.25
+85,Pasta Fresca,d3,Margherita Pizza,Italian,12.3
+85,Pasta Fresca,d1,Margherita Pizza,Italian,13.24
+1,Roma's Pizzeria,s3,Bruschetta,Italian,5.99
+1,Roma's Pizzeria,a2,Ravioli,Italian,6.99
+1,Roma's Pizzeria,a3,Bruschetta,Italian,7.08
+1,Roma's Pizzeria,s1,Spaghetti,Italian,9.1
+1,Roma's Pizzeria,a4,Lasagna,Italian,9.28
+1,Roma's Pizzeria,a1,Ravioli,Italian,11.19
+1,Roma's Pizzeria,p3,Margherita Pizza,Italian,11.91
+1,Roma's Pizzeria,p2,Margherita Pizza,Italian,14.84
+109,Roma's Pizzeria,s2,Bruschetta,Italian,5.15
+109,Roma's Pizzeria,d1,Tiramisu,Italian,8.26
+109,Roma's Pizzeria,p3,Tiramisu,Italian,9.77
+109,Roma's Pizzeria,p1,Spaghetti,Italian,9.91
+109,Roma's Pizzeria,a4,Margherita Pizza,Italian,11.91
+145,Trattoria Bella,a4,Margherita Pizza,Italian,6.11
+145,Trattoria Bella,a3,Spaghetti,Italian,8.14
+145,Trattoria Bella,d4,Margherita Pizza,Italian,8.5
+145,Trattoria Bella,d5,Bruschetta,Italian,8.73
+145,Trattoria Bella,p1,Ravioli,Italian,8.83
+145,Trattoria Bella,d3,Ravioli,Italian,10.08
+145,Trattoria Bella,p2,Ravioli,Italian,10.1
+145,Trattoria Bella,p3,Tiramisu,Italian,11.67
+145,Trattoria Bella,a2,Ravioli,Italian,11.97
+157,Trattoria Bella,p5,Ravioli,Italian,5.47
+157,Trattoria Bella,p1,Ravioli,Italian,7.67
+157,Trattoria Bella,p3,Ravioli,Italian,10.15
+157,Trattoria Bella,s4,Bruschetta,Italian,10.51
+157,Trattoria Bella,p4,Spaghetti,Italian,10.78
+157,Trattoria Bella,p2,Lasagna,Italian,11.04
+157,Trattoria Bella,a4,Spaghetti,Italian,11.11
+169,Trattoria Bella,s2,Lasagna,Italian,5.78
+169,Trattoria Bella,s3,Lasagna,Italian,6.12
+169,Trattoria Bella,s1,Ravioli,Italian,6.48
+169,Trattoria Bella,a2,Spaghetti,Italian,8.05
+169,Trattoria Bella,a1,Spaghetti,Italian,9.29
+169,Trattoria Bella,d2,Tiramisu,Italian,11.11
+169,Trattoria Bella,d1,Spaghetti,Italian,11.94
+169,Trattoria Bella,p3,Bruschetta,Italian,12.82
+169,Trattoria Bella,d3,Bruschetta,Italian,12.87
+169,Trattoria Bella,p5,Ravioli,Italian,13.59
+169,Trattoria Bella,a4,Spaghetti,Italian,14.5
+169,Trattoria Bella,a3,Spaghetti,Italian,14.91
+49,Trattoria Bella,p1,Spaghetti,Italian,11.26
