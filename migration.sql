@@ -44,8 +44,7 @@ CREATE TABLE items (
     product_id VARCHAR NOT NULL,
     name VARCHAR,
     price FLOAT,
-    image VARCHAR,
-    UNIQUE(product_id)
+    image VARCHAR
 );
 
 -- Create the menu_items table
@@ -54,3 +53,42 @@ CREATE TABLE menu_items (
     menu_id INT REFERENCES menus(id),
     item_id INT REFERENCES items(id)
 );
+
+CREATE OR REPLACE FUNCTION menu_items_by_cuisine_and_price(cuisine_type VARCHAR DEFAULT 'Mediterranean', max_price float DEFAULT 15.0)
+RETURNS TABLE (
+    restaurant_id VARCHAR,
+    restaurant VARCHAR,
+    product_id VARCHAR,
+    menu_item VARCHAR,
+    cuisine VARCHAR,
+    price float
+)
+AS $$
+DECLARE
+    cuisine_type ALIAS FOR $1;
+    max_price ALIAS FOR $2;
+BEGIN
+    RETURN QUERY
+    SELECT DISTINCT
+        r.restaurant_id AS restaurant_id,
+        r.name AS restaurant,
+        i.product_id AS product_id,
+        i.name AS menu_item,
+        c.name AS cuisine,
+        i.price AS price
+    FROM restaurants r 
+    INNER JOIN restaurant_cuisines rc 
+        ON r.id = rc.restaurant_id 
+    INNER JOIN cuisines c 
+        ON rc.cuisine_id = c.id 
+    INNER JOIN menus m 
+        ON r.id = m.restaurant_id 
+    INNER JOIN menu_items mi 
+        ON m.id = mi.menu_id 
+    INNER JOIN items i 
+        ON mi.item_id = i.id 
+    WHERE c.name ilike cuisine_type
+        AND i.price <= max_price
+    ORDER BY restaurant, restaurant_id, price ASC,menu_item;
+END;
+$$ LANGUAGE plpgsql;

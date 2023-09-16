@@ -78,9 +78,6 @@ def insert_items(cur, items_data):
         """
         INSERT INTO items (product_id, name, price, image)
         VALUES (%s, %s, %s, %s)
-        ON CONFLICT (product_id) 
-        DO UPDATE SET 
-            name=EXCLUDED.name 
         RETURNING id;
         """,
         (
