@@ -1,0 +1,71 @@
+id,product_id,name,price,image
+222,g5,Grilled Octopus,17.25,url52
+118,e5,Coq au Vin,12.9,url78
+117,e4,Baguette,14.37,url75
+372,t5,Nachos,17.89,url63
+326,b5,Chili Dog,23.29,url47
+135,a5,Tzatziki,7.15,url48
+39,t4,Sangria,7.78,url71
+236,m5,Churros,20.96,url11
+201,p5,Margherita Pizza,22.35,url64
+22,g1,Falafel,21.14,url6
+23,g2,Baklava,14.68,url5
+24,g3,Lamb Kebab,14.49,url45
+25,g4,Greek Salad,18.7,url69
+36,t1,Chicken Taco,7.62,url87
+37,t2,Quesadilla,8.53,url56
+38,t3,Burrito,10.03,url91
+43,m4,Quesadilla,16.78,url20
+105,c5,Samosas,12.1,url75
+69,c1,Green Curry,19.88,url91
+70,c2,Mango Sticky Rice,10.31,url25
+71,c3,Pad Thai,24.89,url28
+104,c4,Green Curry,9.45,url3
+114,e1,Escargot,21.48,url49
+115,e2,Ratatouille,9.38,url30
+116,e3,Ratatouille,13.74,url87
+5,p1,Crème Brûlée,21.99,url76
+6,p2,Camembert,14.84,url86
+7,p3,Camembert,11.91,url81
+200,p4,Camembert,14.02,url22
+122,f1,Ratatouille,7.99,url70
+123,f2,Camembert,24.59,url43
+124,f3,Camembert,16.53,url39
+125,f4,Escargot,15.23,url79
+313,f5,Crème Brûlée,10.18,url42
+4,a4,Chili Dog,9.28,url69
+72,b1,Cobb Salad,17.1,url29
+73,b2,Chili Dog,12.98,url12
+74,b3,Fried Chicken,24.43,url28
+75,b4,Cobb Salad,24.45,url35
+140,h1,Chili Dog,17.69,url87
+141,h2,Wings,16.78,url23
+142,h3,Fried Chicken,23.45,url9
+143,h4,Cobb Salad,10.81,url33
+144,h5,Chili Dog,21.47,url46
+1,a1,Moussaka,11.19,url23
+2,a2,Moussaka,6.99,url82
+3,a3,Gyros,7.08,url13
+15,m1,Greek Salad,21.29,url87
+16,m2,Souvlaki,12.58,url51
+17,m3,Moussaka,24.63,url31
+14,d4,Moussaka,24.25,url73
+30,d5,Gyros,13.55,url85
+8,s1,Banh Mi,9.1,url38
+9,s2,Bun Thit Nuong,21.7,url34
+10,s3,Banh Mi,5.99,url61
+21,s4,Spring Rolls,16.38,url59
+35,s5,Lemongrass Chicken,8.7,url94
+54,n1,Che,20.78,url93
+55,n2,Lemongrass Chicken,19.61,url31
+56,n3,Bun Thit Nuong,16.38,url55
+57,n4,Bun Thit Nuong,21.55,url91
+281,n5,Spring Rolls,12.26,url19
+58,r1,Spring Rolls,21.74,url21
+59,r2,Spring Rolls,20.03,url52
+60,r3,Pho,5.22,url38
+61,r4,Spring Rolls,11.9,url81
+362,r5,Banh Mi,7.94,url12
+11,d1,Banh Mi,15.6,url79
+12,d2,Banh Mi,19.27,url18
+13,d3,Lemongrass Chicken,21.91,url60

@@ -46,7 +46,10 @@ def insert_cuisines(cur, cusine_data):
     cur.execute(
             """
             INSERT INTO cuisines (name)
-            VALUES (%s);
+            VALUES (%s)
+            ON CONFLICT (name)
+            DO UPDATE SET 
+                name=EXCLUDED.name ;
             """,
             (cusine_data,),
         )    
@@ -73,8 +76,8 @@ def insert_menu(cur, restaurant_id, menus_data):
 def insert_items(cur, items_data):
     cur.execute(
         """
-        INSERT INTO items (product_id, name, price, logo_image_id)
-        VALUES (%s, %s, %s, NULL)
+        INSERT INTO items (product_id, name, price, image)
+        VALUES (%s, %s, %s, %s)
         ON CONFLICT (product_id) 
         DO UPDATE SET 
             name=EXCLUDED.name 
@@ -84,6 +87,7 @@ def insert_items(cur, items_data):
             items_data["product_id"],
             items_data["name"],
             items_data["price"],
+            items_data["image"],
         ),
     )
 

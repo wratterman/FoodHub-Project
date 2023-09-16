@@ -1,0 +1,765 @@
+id,restaurant_id,category_name
+1,1,Antipasti
+2,1,Primi
+3,1,Secondi
+4,1,Dolci
+5,2,Mezze
+6,2,Seafood
+7,2,Grill
+8,2,Desserts
+9,3,Starters
+10,3,Tacos
+11,3,Mains
+12,3,Desserts
+13,4,Dim Sum
+14,4,Noodles
+15,4,Rice Dishes
+16,4,Desserts
+17,5,Starters
+18,5,Curries
+19,5,Breads
+20,5,Desserts
+21,6,Sushi
+22,6,Sashimi
+23,6,Noodles
+24,6,Desserts
+25,7,Starters
+26,7,Curries
+27,7,Noodles
+28,7,Desserts
+29,8,Entrées
+30,8,Plats Principaux
+31,8,Fromages
+32,8,Desserts
+33,9,Appetizers
+34,9,Burgers
+35,9,Hot Dogs
+36,9,Desserts
+37,10,Appetizers
+38,10,Salads
+39,10,Mains
+40,10,Desserts
+41,11,Starters
+42,11,Noodle Soups
+43,11,Rice Dishes
+44,11,Desserts
+45,12,Tapas
+46,12,Mains
+47,12,Seafood
+48,12,Desserts
+49,13,Antipasti
+50,13,Primi
+51,13,Secondi
+52,13,Dolci
+53,14,Mezze
+54,14,Seafood
+55,14,Grill
+56,14,Desserts
+57,15,Starters
+58,15,Tacos
+59,15,Mains
+60,15,Desserts
+61,16,Dim Sum
+62,16,Noodles
+63,16,Rice Dishes
+64,16,Desserts
+65,17,Starters
+66,17,Curries
+67,17,Breads
+68,17,Desserts
+69,18,Sushi
+70,18,Sashimi
+71,18,Noodles
+72,18,Desserts
+73,19,Starters
+74,19,Curries
+75,19,Noodles
+76,19,Desserts
+77,20,Entrées
+78,20,Plats Principaux
+79,20,Fromages
+80,20,Desserts
+81,21,Appetizers
+82,21,Burgers
+83,21,Hot Dogs
+84,21,Desserts
+85,22,Appetizers
+86,22,Salads
+87,22,Mains
+88,22,Desserts
+89,23,Starters
+90,23,Noodle Soups
+91,23,Rice Dishes
+92,23,Desserts
+93,24,Tapas
+94,24,Mains
+95,24,Seafood
+96,24,Desserts
+97,25,Antipasti
+98,25,Primi
+99,25,Secondi
+100,25,Dolci
+101,26,Mezze
+102,26,Seafood
+103,26,Grill
+104,26,Desserts
+105,27,Starters
+106,27,Tacos
+107,27,Mains
+108,27,Desserts
+109,28,Dim Sum
+110,28,Noodles
+111,28,Rice Dishes
+112,28,Desserts
+113,29,Starters
+114,29,Curries
+115,29,Breads
+116,29,Desserts
+117,30,Sushi
+118,30,Sashimi
+119,30,Noodles
+120,30,Desserts
+121,31,Starters
+122,31,Curries
+123,31,Noodles
+124,31,Desserts
+125,32,Entrées
+126,32,Plats Principaux
+127,32,Fromages
+128,32,Desserts
+129,33,Appetizers
+130,33,Burgers
+131,33,Hot Dogs
+132,33,Desserts
+133,34,Appetizers
+134,34,Salads
+135,34,Mains
+136,34,Desserts
+137,35,Starters
+138,35,Noodle Soups
+139,35,Rice Dishes
+140,35,Desserts
+141,36,Tapas
+142,36,Mains
+143,36,Seafood
+144,36,Desserts
+145,37,Antipasti
+146,37,Primi
+147,37,Secondi
+148,37,Dolci
+149,38,Mezze
+150,38,Seafood
+151,38,Grill
+152,38,Desserts
+153,39,Starters
+154,39,Tacos
+155,39,Mains
+156,39,Desserts
+157,40,Dim Sum
+158,40,Noodles
+159,40,Rice Dishes
+160,40,Desserts
+161,41,Starters
+162,41,Curries
+163,41,Breads
+164,41,Desserts
+165,42,Sushi
+166,42,Sashimi
+167,42,Noodles
+168,42,Desserts
+169,43,Starters
+170,43,Curries
+171,43,Noodles
+172,43,Desserts
+173,44,Entrées
+174,44,Plats Principaux
+175,44,Fromages
+176,44,Desserts
+177,45,Appetizers
+178,45,Burgers
+179,45,Hot Dogs
+180,45,Desserts
+181,46,Appetizers
+182,46,Salads
+183,46,Mains
+184,46,Desserts
+185,47,Starters
+186,47,Noodle Soups
+187,47,Rice Dishes
+188,47,Desserts
+189,48,Tapas
+190,48,Mains
+191,48,Seafood
+192,48,Desserts
+193,49,Antipasti
+194,49,Primi
+195,49,Secondi
+196,49,Dolci
+197,50,Mezze
+198,50,Seafood
+199,50,Grill
+200,50,Desserts
+201,51,Starters
+202,51,Tacos
+203,51,Mains
+204,51,Desserts
+205,52,Dim Sum
+206,52,Noodles
+207,52,Rice Dishes
+208,52,Desserts
+209,53,Starters
+210,53,Curries
+211,53,Breads
+212,53,Desserts
+213,54,Sushi
+214,54,Sashimi
+215,54,Noodles
+216,54,Desserts
+217,55,Starters
+218,55,Curries
+219,55,Noodles
+220,55,Desserts
+221,56,Entrées
+222,56,Plats Principaux
+223,56,Fromages
+224,56,Desserts
+225,57,Appetizers
+226,57,Burgers
+227,57,Hot Dogs
+228,57,Desserts
+229,58,Appetizers
+230,58,Salads
+231,58,Mains
+232,58,Desserts
+233,59,Starters
+234,59,Noodle Soups
+235,59,Rice Dishes
+236,59,Desserts
+237,60,Tapas
+238,60,Mains
+239,60,Seafood
+240,60,Desserts
+241,61,Antipasti
+242,61,Primi
+243,61,Secondi
+244,61,Dolci
+245,62,Mezze
+246,62,Seafood
+247,62,Grill
+248,62,Desserts
+249,63,Starters
+250,63,Tacos
+251,63,Mains
+252,63,Desserts
+253,64,Dim Sum
+254,64,Noodles
+255,64,Rice Dishes
+256,64,Desserts
+257,65,Starters
+258,65,Curries
+259,65,Breads
+260,65,Desserts
+261,66,Sushi
+262,66,Sashimi
+263,66,Noodles
+264,66,Desserts
+265,67,Starters
+266,67,Curries
+267,67,Noodles
+268,67,Desserts
+269,68,Entrées
+270,68,Plats Principaux
+271,68,Fromages
+272,68,Desserts
+273,69,Appetizers
+274,69,Burgers
+275,69,Hot Dogs
+276,69,Desserts
+277,70,Appetizers
+278,70,Salads
+279,70,Mains
+280,70,Desserts
+281,71,Starters
+282,71,Noodle Soups
+283,71,Rice Dishes
+284,71,Desserts
+285,72,Tapas
+286,72,Mains
+287,72,Seafood
+288,72,Desserts
+289,73,Antipasti
+290,73,Primi
+291,73,Secondi
+292,73,Dolci
+293,74,Mezze
+294,74,Seafood
+295,74,Grill
+296,74,Desserts
+297,75,Starters
+298,75,Tacos
+299,75,Mains
+300,75,Desserts
+301,76,Dim Sum
+302,76,Noodles
+303,76,Rice Dishes
+304,76,Desserts
+305,77,Starters
+306,77,Curries
+307,77,Breads
+308,77,Desserts
+309,78,Sushi
+310,78,Sashimi
+311,78,Noodles
+312,78,Desserts
+313,79,Starters
+314,79,Curries
+315,79,Noodles
+316,79,Desserts
+317,80,Entrées
+318,80,Plats Principaux
+319,80,Fromages
+320,80,Desserts
+321,81,Appetizers
+322,81,Burgers
+323,81,Hot Dogs
+324,81,Desserts
+325,82,Appetizers
+326,82,Salads
+327,82,Mains
+328,82,Desserts
+329,83,Starters
+330,83,Noodle Soups
+331,83,Rice Dishes
+332,83,Desserts
+333,84,Tapas
+334,84,Mains
+335,84,Seafood
+336,84,Desserts
+337,85,Antipasti
+338,85,Primi
+339,85,Secondi
+340,85,Dolci
+341,86,Mezze
+342,86,Seafood
+343,86,Grill
+344,86,Desserts
+345,87,Starters
+346,87,Tacos
+347,87,Mains
+348,87,Desserts
+349,88,Dim Sum
+350,88,Noodles
+351,88,Rice Dishes
+352,88,Desserts
+353,89,Starters
+354,89,Curries
+355,89,Breads
+356,89,Desserts
+357,90,Sushi
+358,90,Sashimi
+359,90,Noodles
+360,90,Desserts
+361,91,Starters
+362,91,Curries
+363,91,Noodles
+364,91,Desserts
+365,92,Entrées
+366,92,Plats Principaux
+367,92,Fromages
+368,92,Desserts
+369,93,Appetizers
+370,93,Burgers
+371,93,Hot Dogs
+372,93,Desserts
+373,94,Appetizers
+374,94,Salads
+375,94,Mains
+376,94,Desserts
+377,95,Starters
+378,95,Noodle Soups
+379,95,Rice Dishes
+380,95,Desserts
+381,96,Tapas
+382,96,Mains
+383,96,Seafood
+384,96,Desserts
+385,97,Antipasti
+386,97,Primi
+387,97,Secondi
+388,97,Dolci
+389,98,Mezze
+390,98,Seafood
+391,98,Grill
+392,98,Desserts
+393,99,Starters
+394,99,Tacos
+395,99,Mains
+396,99,Desserts
+397,100,Dim Sum
+398,100,Noodles
+399,100,Rice Dishes
+400,100,Desserts
+401,101,Starters
+402,101,Curries
+403,101,Breads
+404,101,Desserts
+405,102,Sushi
+406,102,Sashimi
+407,102,Noodles
+408,102,Desserts
+409,103,Starters
+410,103,Curries
+411,103,Noodles
+412,103,Desserts
+413,104,Entrées
+414,104,Plats Principaux
+415,104,Fromages
+416,104,Desserts
+417,105,Appetizers
+418,105,Burgers
+419,105,Hot Dogs
+420,105,Desserts
+421,106,Appetizers
+422,106,Salads
+423,106,Mains
+424,106,Desserts
+425,107,Starters
+426,107,Noodle Soups
+427,107,Rice Dishes
+428,107,Desserts
+429,108,Tapas
+430,108,Mains
+431,108,Seafood
+432,108,Desserts
+433,109,Antipasti
+434,109,Primi
+435,109,Secondi
+436,109,Dolci
+437,110,Mezze
+438,110,Seafood
+439,110,Grill
+440,110,Desserts
+441,111,Starters
+442,111,Tacos
+443,111,Mains
+444,111,Desserts
+445,112,Dim Sum
+446,112,Noodles
+447,112,Rice Dishes
+448,112,Desserts
+449,113,Starters
+450,113,Curries
+451,113,Breads
+452,113,Desserts
+453,114,Sushi
+454,114,Sashimi
+455,114,Noodles
+456,114,Desserts
+457,115,Starters
+458,115,Curries
+459,115,Noodles
+460,115,Desserts
+461,116,Entrées
+462,116,Plats Principaux
+463,116,Fromages
+464,116,Desserts
+465,117,Appetizers
+466,117,Burgers
+467,117,Hot Dogs
+468,117,Desserts
+469,118,Appetizers
+470,118,Salads
+471,118,Mains
+472,118,Desserts
+473,119,Starters
+474,119,Noodle Soups
+475,119,Rice Dishes
+476,119,Desserts
+477,120,Tapas
+478,120,Mains
+479,120,Seafood
+480,120,Desserts
+481,121,Antipasti
+482,121,Primi
+483,121,Secondi
+484,121,Dolci
+485,122,Mezze
+486,122,Seafood
+487,122,Grill
+488,122,Desserts
+489,123,Starters
+490,123,Tacos
+491,123,Mains
+492,123,Desserts
+493,124,Dim Sum
+494,124,Noodles
+495,124,Rice Dishes
+496,124,Desserts
+497,125,Starters
+498,125,Curries
+499,125,Breads
+500,125,Desserts
+501,126,Sushi
+502,126,Sashimi
+503,126,Noodles
+504,126,Desserts
+505,127,Starters
+506,127,Curries
+507,127,Noodles
+508,127,Desserts
+509,128,Entrées
+510,128,Plats Principaux
+511,128,Fromages
+512,128,Desserts
+513,129,Appetizers
+514,129,Burgers
+515,129,Hot Dogs
+516,129,Desserts
+517,130,Appetizers
+518,130,Salads
+519,130,Mains
+520,130,Desserts
+521,131,Starters
+522,131,Noodle Soups
+523,131,Rice Dishes
+524,131,Desserts
+525,132,Tapas
+526,132,Mains
+527,132,Seafood
+528,132,Desserts
+529,133,Antipasti
+530,133,Primi
+531,133,Secondi
+532,133,Dolci
+533,134,Mezze
+534,134,Seafood
+535,134,Grill
+536,134,Desserts
+537,135,Starters
+538,135,Tacos
+539,135,Mains
+540,135,Desserts
+541,136,Dim Sum
+542,136,Noodles
+543,136,Rice Dishes
+544,136,Desserts
+545,137,Starters
+546,137,Curries
+547,137,Breads
+548,137,Desserts
+549,138,Sushi
+550,138,Sashimi
+551,138,Noodles
+552,138,Desserts
+553,139,Starters
+554,139,Curries
+555,139,Noodles
+556,139,Desserts
+557,140,Entrées
+558,140,Plats Principaux
+559,140,Fromages
+560,140,Desserts
+561,141,Appetizers
+562,141,Burgers
+563,141,Hot Dogs
+564,141,Desserts
+565,142,Appetizers
+566,142,Salads
+567,142,Mains
+568,142,Desserts
+569,143,Starters
+570,143,Noodle Soups
+571,143,Rice Dishes
+572,143,Desserts
+573,144,Tapas
+574,144,Mains
+575,144,Seafood
+576,144,Desserts
+577,145,Antipasti
+578,145,Primi
+579,145,Secondi
+580,145,Dolci
+581,146,Mezze
+582,146,Seafood
+583,146,Grill
+584,146,Desserts
+585,147,Starters
+586,147,Tacos
+587,147,Mains
+588,147,Desserts
+589,148,Dim Sum
+590,148,Noodles
+591,148,Rice Dishes
+592,148,Desserts
+593,149,Starters
+594,149,Curries
+595,149,Breads
+596,149,Desserts
+597,150,Sushi
+598,150,Sashimi
+599,150,Noodles
+600,150,Desserts
+601,151,Starters
+602,151,Curries
+603,151,Noodles
+604,151,Desserts
+605,152,Entrées
+606,152,Plats Principaux
+607,152,Fromages
+608,152,Desserts
+609,153,Appetizers
+610,153,Burgers
+611,153,Hot Dogs
+612,153,Desserts
+613,154,Appetizers
+614,154,Salads
+615,154,Mains
+616,154,Desserts
+617,155,Starters
+618,155,Noodle Soups
+619,155,Rice Dishes
+620,155,Desserts
+621,156,Tapas
+622,156,Mains
+623,156,Seafood
+624,156,Desserts
+625,157,Antipasti
+626,157,Primi
+627,157,Secondi
+628,157,Dolci
+629,158,Mezze
+630,158,Seafood
+631,158,Grill
+632,158,Desserts
+633,159,Starters
+634,159,Tacos
+635,159,Mains
+636,159,Desserts
+637,160,Dim Sum
+638,160,Noodles
+639,160,Rice Dishes
+640,160,Desserts
+641,161,Starters
+642,161,Curries
+643,161,Breads
+644,161,Desserts
+645,162,Sushi
+646,162,Sashimi
+647,162,Noodles
+648,162,Desserts
+649,163,Starters
+650,163,Curries
+651,163,Noodles
+652,163,Desserts
+653,164,Entrées
+654,164,Plats Principaux
+655,164,Fromages
+656,164,Desserts
+657,165,Appetizers
+658,165,Burgers
+659,165,Hot Dogs
+660,165,Desserts
+661,166,Appetizers
+662,166,Salads
+663,166,Mains
+664,166,Desserts
+665,167,Starters
+666,167,Noodle Soups
+667,167,Rice Dishes
+668,167,Desserts
+669,168,Tapas
+670,168,Mains
+671,168,Seafood
+672,168,Desserts
+673,169,Antipasti
+674,169,Primi
+675,169,Secondi
+676,169,Dolci
+677,170,Mezze
+678,170,Seafood
+679,170,Grill
+680,170,Desserts
+681,171,Starters
+682,171,Tacos
+683,171,Mains
+684,171,Desserts
+685,172,Dim Sum
+686,172,Noodles
+687,172,Rice Dishes
+688,172,Desserts
+689,173,Starters
+690,173,Curries
+691,173,Breads
+692,173,Desserts
+693,174,Sushi
+694,174,Sashimi
+695,174,Noodles
+696,174,Desserts
+697,175,Starters
+698,175,Curries
+699,175,Noodles
+700,175,Desserts
+701,176,Entrées
+702,176,Plats Principaux
+703,176,Fromages
+704,176,Desserts
+705,177,Appetizers
+706,177,Burgers
+707,177,Hot Dogs
+708,177,Desserts
+709,178,Appetizers
+710,178,Salads
+711,178,Mains
+712,178,Desserts
+713,179,Starters
+714,179,Noodle Soups
+715,179,Rice Dishes
+716,179,Desserts
+717,180,Tapas
+718,180,Mains
+719,180,Seafood
+720,180,Desserts
+721,181,Antipasti
+722,181,Primi
+723,181,Secondi
+724,181,Dolci
+725,182,Mezze
+726,182,Seafood
+727,182,Grill
+728,182,Desserts
+729,183,Starters
+730,183,Tacos
+731,183,Mains
+732,183,Desserts
+733,184,Dim Sum
+734,184,Noodles
+735,184,Rice Dishes
+736,184,Desserts
+737,185,Starters
+738,185,Curries
+739,185,Breads
+740,185,Desserts
+741,186,Sushi
+742,186,Sashimi
+743,186,Noodles
+744,186,Desserts
+745,187,Starters
+746,187,Curries
+747,187,Noodles
+748,187,Desserts
+749,188,Entrées
+750,188,Plats Principaux
+751,188,Fromages
+752,188,Desserts
+753,189,Appetizers
+754,189,Burgers
+755,189,Hot Dogs
+756,189,Desserts
+757,190,Appetizers
+758,190,Salads
+759,190,Mains
+760,190,Desserts
+761,191,Starters
+762,191,Noodle Soups
+763,191,Rice Dishes
+764,191,Desserts

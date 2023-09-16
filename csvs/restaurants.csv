@@ -1,0 +1,192 @@
+id,restaurant_id,name,phone_number,address,type,description
+1,1,Roma's Pizzeria,474-711-3654,435 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+2,2,Aegean Breeze,517-804-2622,126 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+3,3,Casa de Tacos,288-130-3814,275 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+4,4,Golden Dragon,337-699-6023,305 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+5,5,Taj Curry House,288-822-1067,51 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+6,6,Wasabi Wave,394-672-8335,134 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+7,7,Chili Thai,578-848-3870,41 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+8,8,Le Petit Café,439-626-1132,354 Main St,take-out,A sophisticated French café with pastries and fine dining.
+9,9,Eagle's Diner,437-434-8528,151 Main St,take-out,A classic American diner with burgers and milkshakes.
+10,10,Athena's Olive,872-837-2060,271 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+11,11,Lotus Leaf,450-180-7081,435 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+12,12,Paella Paradise,149-725-9263,33 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+13,13,Pasta Fresca,583-282-9216,362 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+14,14,Seafood Harbor,560-443-6516,62 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+15,15,Margarita's,143-573-1355,99 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+16,16,Bamboo Garden,925-415-5151,168 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+17,17,Saffron Lounge,167-243-4644,437 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+18,18,Zen Ramen,515-845-5268,33 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+19,19,Lemongrass Lane,740-464-9699,231 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+20,20,Boulangerie Bliss,410-555-7868,389 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+21,21,Route 66 Grill,118-689-9855,398 Main St,take-out,A classic American diner with burgers and milkshakes.
+22,22,Athena's Olive,553-712-6538,414 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+23,23,Hanoi House,913-247-1454,241 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+24,24,Tapas Temptation,366-616-5027,58 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+25,25,Pasta Fresca,705-753-4427,221 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+26,26,Santorini Grill,394-341-7178,28 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+27,27,Casa de Tacos,157-535-7207,243 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+28,28,Wok & Roll,468-789-1090,255 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+29,29,Taj Curry House,246-110-3291,390 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+30,30,Sakura Sushi,130-184-4603,466 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+31,31,Chili Thai,366-203-7413,372 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+32,32,Chateau de Vin,836-755-1994,402 Main St,take-out,A sophisticated French café with pastries and fine dining.
+33,33,Star Spangled Burgers,944-944-1379,108 Main St,dine-in,A classic American diner with burgers and milkshakes.
+34,34,Zeus's Table,430-739-2926,180 Main St,take-out,A festive Greek taverna with moussaka and gyro platters.
+35,35,Saigon Street,802-164-8500,18 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+36,36,Tapas Temptation,193-998-8043,407 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+37,37,Il Forno,509-369-9533,8 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+38,38,Santorini Grill,770-611-2335,186 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+39,39,Margarita's,312-722-1549,33 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+40,40,Golden Dragon,541-830-1997,199 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+41,41,Taj Curry House,354-696-4146,162 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+42,42,Tokyo Teppanyaki,972-385-3488,1 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+43,43,Lemongrass Lane,332-424-2507,132 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+44,44,Le Petit Café,317-636-9020,496 Main St,take-out,A sophisticated French café with pastries and fine dining.
+45,45,Star Spangled Burgers,772-981-8170,106 Main St,dine-in,A classic American diner with burgers and milkshakes.
+46,46,Gyro Gyro,932-913-9072,359 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+47,47,Pho Pho Pho,148-815-7320,471 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+48,48,Tapas Temptation,595-560-5756,138 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+49,49,Trattoria Bella,331-267-9868,376 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+50,50,Aegean Breeze,516-936-9720,147 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+51,51,Casa de Tacos,985-624-2692,339 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+52,52,Wok & Roll,258-345-8806,433 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+53,53,Spice Route,357-524-3806,177 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+54,54,Sakura Sushi,711-533-3294,3 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+55,55,Chili Thai,212-801-7635,68 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+56,56,Boulangerie Bliss,425-893-6024,381 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+57,57,Star Spangled Burgers,190-514-7485,283 Main St,dine-in,A classic American diner with burgers and milkshakes.
+58,58,Zeus's Table,197-440-4498,171 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+59,59,Pho Pho Pho,636-618-5324,57 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+60,60,Paella Paradise,542-368-9178,257 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+61,61,Il Forno,988-159-5387,285 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+62,62,Seafood Harbor,227-287-5239,92 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+63,63,Chili Pepper,704-382-3619,18 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+64,64,Jade Palace,640-487-6290,484 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+65,65,Bollywood Bistro,889-658-7935,344 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+66,66,Wasabi Wave,137-665-7572,409 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+67,67,Lemongrass Lane,217-868-7902,156 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+68,68,Parisian Bistro,566-493-6080,222 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+69,69,Route 66 Grill,693-155-7088,482 Main St,dine-in,A classic American diner with burgers and milkshakes.
+70,70,Athena's Olive,930-385-4739,309 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+71,71,Lotus Leaf,113-592-3592,189 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+72,72,Valencia Vibes,157-980-8098,330 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+73,73,Il Forno,848-347-4018,449 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+74,74,Olive & Thyme,182-596-8880,17 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+75,75,Fiesta Cantina,581-142-1303,36 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+76,76,Wok & Roll,165-843-9763,459 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+77,77,Bollywood Bistro,140-808-5860,453 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+78,78,Zen Ramen,530-362-6115,223 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+79,79,Chili Thai,251-645-3311,151 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+80,80,Parisian Bistro,693-584-7309,2 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+81,81,Eagle's Diner,124-351-3333,340 Main St,take-out,A classic American diner with burgers and milkshakes.
+82,82,Zeus's Table,538-538-3785,147 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+83,83,Lotus Leaf,772-597-2743,196 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+84,84,Valencia Vibes,742-542-4985,160 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+85,85,Pasta Fresca,780-704-4552,313 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+86,86,Seafood Harbor,643-500-7187,92 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+87,87,Casa de Tacos,886-194-6579,290 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+88,88,Wok & Roll,149-738-5854,183 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+89,89,Spice Route,477-991-1013,330 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+90,90,Wasabi Wave,717-802-7657,295 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+91,91,Chili Thai,348-259-2503,369 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+92,92,Chateau de Vin,188-923-7353,401 Main St,take-out,A sophisticated French café with pastries and fine dining.
+93,93,Liberty Lane,453-236-9899,265 Main St,take-out,A classic American diner with burgers and milkshakes.
+94,94,Athena's Olive,756-902-5805,274 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+95,95,Saigon Street,236-657-5817,499 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+96,96,Barcelona Bites,950-378-3430,425 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+97,97,Il Forno,603-114-8373,415 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+98,98,Santorini Grill,180-510-4067,156 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+99,99,Casa de Tacos,183-177-1142,223 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+100,100,Jade Palace,152-317-9864,48 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+101,101,Saffron Lounge,961-228-7196,49 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+102,102,Wasabi Wave,562-394-8934,288 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+103,103,Pad Thai Pavilion,390-383-7149,299 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+104,104,Parisian Bistro,962-267-9088,233 Main St,take-out,A sophisticated French café with pastries and fine dining.
+105,105,Eagle's Diner,680-590-1361,60 Main St,dine-in,A classic American diner with burgers and milkshakes.
+106,106,Zeus's Table,945-786-3401,189 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+107,107,Hanoi House,551-291-5413,173 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+108,108,Barcelona Bites,652-678-1321,470 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+109,109,Roma's Pizzeria,272-737-6424,394 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+110,110,Santorini Grill,941-708-6352,423 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+111,111,Casa de Tacos,683-968-1877,262 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+112,112,Golden Dragon,235-439-6110,299 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+113,113,Saffron Lounge,822-417-3871,490 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+114,114,Wasabi Wave,422-991-7805,232 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+115,115,Lemongrass Lane,613-230-3364,375 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+116,116,Chateau de Vin,165-707-7711,419 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+117,117,Eagle's Diner,679-697-3232,3 Main St,take-out,A classic American diner with burgers and milkshakes.
+118,118,Athena's Olive,913-739-1523,153 Main St,take-out,A festive Greek taverna with moussaka and gyro platters.
+119,119,Saigon Street,515-379-4651,232 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+120,120,Valencia Vibes,760-440-1132,481 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+121,121,Il Forno,665-491-8285,30 Main St,dine-in,A cozy Italian restaurant offering authentic pasta and pizzas.
+122,122,Olive & Thyme,500-683-1920,415 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+123,123,Chili Pepper,364-772-9594,17 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+124,124,Jade Palace,791-418-8571,200 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+125,125,Spice Route,281-939-7466,400 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+126,126,Wasabi Wave,352-924-6168,36 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+127,127,Chili Thai,932-166-1085,107 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+128,128,Le Petit Café,639-692-5765,408 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+129,129,Eagle's Diner,271-101-3108,193 Main St,dine-in,A classic American diner with burgers and milkshakes.
+130,130,Gyro Gyro,220-185-2820,79 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+131,131,Saigon Street,112-114-3648,47 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+132,132,Valencia Vibes,290-144-3714,24 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+133,133,Il Forno,737-810-3469,457 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+134,134,Seafood Harbor,319-659-7205,496 Main St,take-out,A vibrant Mediterranean eatery with fresh seafood and salads.
+135,135,Margarita's,997-127-6913,48 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+136,136,Golden Dragon,770-906-5360,92 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+137,137,Taj Curry House,809-354-4856,296 Main St,take-out,An aromatic Indian bistro with curries and tandoori dishes.
+138,138,Sakura Sushi,431-917-1821,341 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+139,139,Bangkok Street,894-603-4243,97 Main St,take-out,A spicy Thai eatery with colorful curries and noodle dishes.
+140,140,Boulangerie Bliss,992-790-9414,303 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+141,141,Route 66 Grill,531-720-9872,38 Main St,take-out,A classic American diner with burgers and milkshakes.
+142,142,Gyro Gyro,331-391-1104,223 Main St,take-out,A festive Greek taverna with moussaka and gyro platters.
+143,143,Lotus Leaf,687-986-1193,325 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+144,144,Paella Paradise,711-186-2949,302 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+145,145,Trattoria Bella,628-989-6595,411 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+146,146,Seafood Harbor,950-651-8923,132 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+147,147,Chili Pepper,949-516-9381,379 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+148,148,Jade Palace,740-741-8834,442 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+149,149,Bollywood Bistro,143-811-5639,148 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+150,150,Wasabi Wave,728-504-4631,188 Main St,take-out,A modern Japanese sushi bar with fresh sashimi and ramen.
+151,151,Lemongrass Lane,926-616-6581,280 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+152,152,Le Petit Café,772-609-5504,90 Main St,take-out,A sophisticated French café with pastries and fine dining.
+153,153,Star Spangled Burgers,100-280-4775,458 Main St,dine-in,A classic American diner with burgers and milkshakes.
+154,154,Mykonos Taverna,324-784-3052,72 Main St,take-out,A festive Greek taverna with moussaka and gyro platters.
+155,155,Hanoi House,515-528-5997,444 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+156,156,Paella Paradise,728-355-8576,70 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+157,157,Trattoria Bella,228-781-2246,444 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+158,158,Olive & Thyme,788-870-1024,138 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+159,159,Margarita's,822-766-3170,473 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+160,160,Jade Palace,593-486-3802,490 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+161,161,Saffron Lounge,861-244-6203,127 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+162,162,Sakura Sushi,465-316-6821,422 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+163,163,Lemongrass Lane,812-118-6890,438 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+164,164,Le Petit Café,957-905-9094,282 Main St,take-out,A sophisticated French café with pastries and fine dining.
+165,165,Liberty Lane,548-742-6030,10 Main St,dine-in,A classic American diner with burgers and milkshakes.
+166,166,Mykonos Taverna,560-978-7383,78 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+167,167,Saigon Street,698-102-6237,454 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.
+168,168,Valencia Vibes,955-637-8071,418 Main St,take-out,A lively Spanish tapas bar with sangria and paella.
+169,169,Trattoria Bella,400-684-9664,56 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+170,170,Olive & Thyme,968-972-3421,67 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+171,171,Margarita's,280-608-9819,30 Main St,take-out,A lively Mexican joint with flavorful tacos and margaritas.
+172,172,Wok & Roll,961-120-5176,30 Main St,take-out,A traditional Chinese restaurant with dim sum and stir-fries.
+173,173,Taj Curry House,890-969-1993,319 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+174,174,Sakura Sushi,541-268-3000,291 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+175,175,Bangkok Street,441-462-2187,165 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+176,176,Chateau de Vin,337-972-7414,153 Main St,take-out,A sophisticated French café with pastries and fine dining.
+177,177,Star Spangled Burgers,696-606-6915,306 Main St,take-out,A classic American diner with burgers and milkshakes.
+178,178,Gyro Gyro,955-192-7899,106 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+179,179,Saigon Street,356-122-1001,422 Main St,take-out,A flavorful Vietnamese spot with pho and spring rolls.
+180,180,Valencia Vibes,984-862-8273,321 Main St,dine-in,A lively Spanish tapas bar with sangria and paella.
+181,181,Il Forno,347-839-1196,13 Main St,take-out,A cozy Italian restaurant offering authentic pasta and pizzas.
+182,182,Santorini Grill,416-458-3670,72 Main St,dine-in,A vibrant Mediterranean eatery with fresh seafood and salads.
+183,183,Fiesta Cantina,437-764-1663,182 Main St,dine-in,A lively Mexican joint with flavorful tacos and margaritas.
+184,184,Jade Palace,470-869-7956,418 Main St,dine-in,A traditional Chinese restaurant with dim sum and stir-fries.
+185,185,Saffron Lounge,739-785-7719,65 Main St,dine-in,An aromatic Indian bistro with curries and tandoori dishes.
+186,186,Zen Ramen,424-685-4998,283 Main St,dine-in,A modern Japanese sushi bar with fresh sashimi and ramen.
+187,187,Bangkok Street,131-768-6769,191 Main St,dine-in,A spicy Thai eatery with colorful curries and noodle dishes.
+188,188,Le Petit Café,106-649-2777,357 Main St,dine-in,A sophisticated French café with pastries and fine dining.
+189,189,Liberty Lane,901-477-4538,372 Main St,dine-in,A classic American diner with burgers and milkshakes.
+190,190,Gyro Gyro,622-642-2469,333 Main St,dine-in,A festive Greek taverna with moussaka and gyro platters.
+191,191,Saigon Street,472-180-3864,212 Main St,dine-in,A flavorful Vietnamese spot with pho and spring rolls.

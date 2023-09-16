@@ -20,7 +20,8 @@ CREATE TABLE logo_photos (
 -- Create the cuisines table
 CREATE TABLE cuisines (
     id SERIAL PRIMARY KEY,
-    name VARCHAR
+    name VARCHAR,
+    UNIQUE(name)
 );
 
 -- Create the restaurant_cuisines table
@@ -43,7 +44,7 @@ CREATE TABLE items (
     product_id VARCHAR NOT NULL,
     name VARCHAR,
     price FLOAT,
-    logo_image_id INT REFERENCES logo_photos(id),
+    image VARCHAR,
     UNIQUE(product_id)
 );
 

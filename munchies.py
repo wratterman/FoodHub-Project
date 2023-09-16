@@ -1,5 +1,6 @@
 import json
 import psycopg2
+import csv
 import codecs
 
 from db.db_utils import establish_connection, insert_restaurants, insert_logo_photos, insert_cuisines, insert_menu, insert_items, insert_menu_items, insert_restaurant_cuisines
@@ -48,5 +49,21 @@ with open("FoodHub_data.json", "r", encoding="utf-8") as json_file:
 conn = establish_connection()
 cur = conn.cursor()
 load_restaurants(data, cur)
+tables_to_export = ["restaurants", "logo_photos", "restaurant_cuisines", "cuisines", "menus", "items", "menu_items"]
+for table_name in tables_to_export:
+        cur.execute(f"SELECT * FROM {table_name};")
+        rows = cur.fetchall()
+
+        if rows:
+            column_names = [desc[0] for desc in cur.description]
+
+            # Create a CSV file for Created tables
+            with open(f"csvs/{table_name}.csv", "w", newline="") as csv_file:
+                csv_writer = csv.writer(csv_file)
+                csv_writer.writerow(column_names) 
+                csv_writer.writerows(rows) 
+
+            print(f"Exported data from '{table_name}' to '{table_name}.csv'")
+
 conn.commit()
 conn.close()
