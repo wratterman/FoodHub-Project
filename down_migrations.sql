@@ -1,0 +1,7 @@
+DROP TABLE restaurants CASCADE;
+DROP TABLE logo_photos CASCADE;
+DROP TABLE cuisines CASCADE;
+DROP TABLE restaurant_cuisines CASCADE;
+DROP TABLE menus CASCADE;
+DROP TABLE items CASCADE;
+DROP TABLE menu_items CASCADE;

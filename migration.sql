@@ -6,7 +6,8 @@ CREATE TABLE restaurants (
     phone_number VARCHAR,
     address VARCHAR,
     type VARCHAR,
-    description VARCHAR
+    description VARCHAR,
+    UNIQUE(restaurant_id)
 );
 
 -- Create the logo_photos table
@@ -42,7 +43,8 @@ CREATE TABLE items (
     product_id VARCHAR NOT NULL,
     name VARCHAR,
     price FLOAT,
-    logo_image_id INT REFERENCES logo_photos(id)
+    logo_image_id INT REFERENCES logo_photos(id),
+    UNIQUE(product_id)
 );
 
 -- Create the menu_items table

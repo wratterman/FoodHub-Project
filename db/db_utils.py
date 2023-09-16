@@ -27,6 +27,9 @@ def insert_restaurants(cur, restaurant_data):
         """
         INSERT INTO restaurants (restaurant_id, name, phone_number, address, type, description)
         VALUES (%s, %s, %s, %s, %s, %s)
+        ON CONFLICT (restaurant_id)
+        DO UPDATE SET 
+            name=EXCLUDED.name 
         RETURNING id;
         """,
         (
@@ -72,6 +75,9 @@ def insert_items(cur, items_data):
         """
         INSERT INTO items (product_id, name, price, logo_image_id)
         VALUES (%s, %s, %s, NULL)
+        ON CONFLICT (product_id) 
+        DO UPDATE SET 
+            name=EXCLUDED.name 
         RETURNING id;
         """,
         (
