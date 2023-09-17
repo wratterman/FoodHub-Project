@@ -1,8 +1,8 @@
 import psycopg2
-from db.db_utils import establish_connection
+from db import establish_connection
 
-# migration_file_path = "./down_migrations.sql"
-migration_file_path = "./migration.sql"
+# migration_file_path = "./db/migrations/down_migrations.sql"
+migration_file_path = "./db/migrations/migration.sql"
 
 conn = establish_connection()
 cur = conn.cursor()
