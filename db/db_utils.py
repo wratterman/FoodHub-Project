@@ -22,6 +22,7 @@ def establish_connection():
             print("Retrying connection")
     return conn
 
+
 def insert_restaurants(cur, restaurant_data):
     cur.execute(
         """
@@ -42,26 +43,29 @@ def insert_restaurants(cur, restaurant_data):
         ),
     )
 
+
 def insert_cuisines(cur, cusine_data):
     cur.execute(
-            """
+        """
             INSERT INTO cuisines (name)
             VALUES (%s)
             ON CONFLICT (name)
             DO UPDATE SET 
                 name=EXCLUDED.name ;
             """,
-            (cusine_data,),
-        )    
+        (cusine_data,),
+    )
+
 
 def insert_logo_photos(cur, restaurant_id, logo_images_data):
     cur.execute(
-            """
+        """
             INSERT INTO logo_photos (restaurant_id, image_url)
             VALUES (%s, %s);
             """,
-            (restaurant_id, logo_images_data),
-        )
+        (restaurant_id, logo_images_data),
+    )
+
 
 def insert_menu(cur, restaurant_id, menus_data):
     cur.execute(
@@ -72,6 +76,7 @@ def insert_menu(cur, restaurant_id, menus_data):
         """,
         (restaurant_id, menus_data["category_name"]),
     )
+
 
 def insert_items(cur, items_data):
     cur.execute(
@@ -88,6 +93,7 @@ def insert_items(cur, items_data):
         ),
     )
 
+
 def insert_menu_items(cur, menu_id, item_id):
     cur.execute(
         """
@@ -97,12 +103,12 @@ def insert_menu_items(cur, menu_id, item_id):
         (menu_id, item_id),
     )
 
+
 def insert_restaurant_cuisines(cur, restaurant_id, cuisine_id):
     cur.execute(
-            """
+        """
             INSERT INTO restaurant_cuisines (restaurant_id, cuisine_id)
             VALUES (%s, %s);
             """,
-            (restaurant_id, cuisine_id),
-        )
-
+        (restaurant_id, cuisine_id),
+    )
