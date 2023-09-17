@@ -1,7 +1,7 @@
 import psycopg2
 from db import establish_connection
 
-# migration_file_path = "./db/migrations/down_migrations.sql"
+# migration_file_path = "./db/migrations/teardown.sql"
 migration_file_path = "./db/migrations/migration.sql"
 
 conn = establish_connection()

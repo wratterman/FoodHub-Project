@@ -1,5 +1,5 @@
 #!/bin/bash
 
-exec python3 run_migrations.py &
-exec sleep 60 &
-exec python3 main.py
+python3 run_migrations.py &
+wait $1
+python3 main.py
