@@ -15,3 +15,7 @@ services:
       context: .
     depends_on:
       - db
+    volumes:
+      - py_output:/app/output_csvs
+volumes:
+  py_output:
