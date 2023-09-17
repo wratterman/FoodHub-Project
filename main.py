@@ -1,7 +1,7 @@
 import json
 
 from db import establish_connection
-from data_loader import (
+from data_orchestrator import (
     load_restaurant_data,
     export_tables,
     export_cuisine_search_results,
