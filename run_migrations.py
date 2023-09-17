@@ -1,6 +1,5 @@
 import psycopg2
 from db.db_utils import establish_connection
-from db.config import DB_NAME, DB_USERNAME, DB_PASSWORD, DB_HOST, DB_PORT
 
 # migration_file_path = "./down_migrations.sql"
 migration_file_path = "./migration.sql"
