@@ -44,4 +44,3 @@ def load_cuisines(cur, restaurant_data, restaurant_id):
 def load_logo_photos(cur, restaurant_data, restaurant_id):
     for logo_images_data in restaurant_data["logo_photos"]:
         insert_logo_photos(cur, restaurant_id, logo_images_data)
-

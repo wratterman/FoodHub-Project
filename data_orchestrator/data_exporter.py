@@ -1,5 +1,6 @@
 import csv
 
+
 def export_tables(cur):
     tables_to_export = [
         "restaurants",
