@@ -1,6 +1,6 @@
 import csv
 
-from db.db_utils import (
+from db import (
     insert_restaurants,
     insert_logo_photos,
     insert_cuisines,
@@ -66,7 +66,7 @@ def export_tables(cur):
             column_names = [desc[0] for desc in cur.description]
 
             # Create a CSV file for Created tables
-            with open(f"csvs/{table_name}.csv", "w", newline="") as csv_file:
+            with open(f"output_csvs/{table_name}.csv", "w", newline="") as csv_file:
                 csv_writer = csv.writer(csv_file)
                 csv_writer.writerow(column_names)
                 csv_writer.writerows(rows)
@@ -98,7 +98,7 @@ def export_cuisine_search_results(cur):
 
             # Create a CSV file for Created tables
             with open(
-                f"csvs/query_results/{cuisine}_items_below_15_dollars.csv",
+                f"output_csvs/query_results/{cuisine}_items_below_15_dollars.csv",
                 "w",
                 newline="",
             ) as csv_file:

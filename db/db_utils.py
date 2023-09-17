@@ -1,7 +1,7 @@
 import time
 import psycopg2
 from psycopg2 import OperationalError
-from db.config import DB_NAME, DB_USERNAME, DB_PASSWORD, DB_HOST, DB_PORT
+from db import DB_NAME, DB_USERNAME, DB_PASSWORD, DB_HOST, DB_PORT
 
 
 def establish_connection():

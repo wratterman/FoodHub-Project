@@ -1,6 +1,6 @@
 import json
 
-from db.db_utils import establish_connection
+from db import establish_connection
 from data_loader import (
     load_restaurant_data,
     export_tables,
@@ -16,7 +16,7 @@ def load_data(
     export_cuisine_search_results(cur)
 
 
-with open("FoodHub_data.json", "r", encoding="utf-8") as json_file:
+with open("input_data/FoodHub_data.json", "r", encoding="utf-8") as json_file:
     data = json.load(json_file)
 
 if __name__ == "__main__":
