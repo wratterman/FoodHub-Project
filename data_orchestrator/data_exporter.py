@@ -1,5 +1,4 @@
-import csv
-
+import pandas as pd
 
 def export_tables(cur):
     tables_to_export = [
@@ -17,12 +16,10 @@ def export_tables(cur):
 
         if rows:
             column_names = [desc[0] for desc in cur.description]
+            data = pd.DataFrame(rows, columns=column_names)
 
-            # Create a CSV file for Created tables
-            with open(f"output_csvs/{table_name}.csv", "w", newline="") as csv_file:
-                csv_writer = csv.writer(csv_file)
-                csv_writer.writerow(column_names)
-                csv_writer.writerows(rows)
+            csv_file_path = f"output_csvs/{table_name}.csv"
+            data.to_csv(csv_file_path, index=False)
 
             print(f"Exported data from '{table_name}' to '{table_name}.csv'")
 
@@ -48,16 +45,10 @@ def export_cuisine_search_results(cur):
 
         if rows:
             column_names = [desc[0] for desc in cur.description]
+            data = pd.DataFrame(rows, columns=column_names)
 
-            # Create a CSV file for Created tables
-            with open(
-                f"output_csvs/query_results/{cuisine}_items_below_15_dollars.csv",
-                "w",
-                newline="",
-            ) as csv_file:
-                csv_writer = csv.writer(csv_file)
-                csv_writer.writerow(column_names)
-                csv_writer.writerows(rows)
+            csv_file_path = f"output_csvs/query_results/{cuisine}_items_below_15_dollars.csv"
+            data.to_csv(csv_file_path, index=False)
 
             print(
                 f"Exported data from '{cuisine} Search' to '{cuisine}_items_below_15_dollars.csv'"
