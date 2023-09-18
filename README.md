@@ -60,10 +60,12 @@ $ python run_migrations.py
     - Restaurants
     - Cuisines
     - Restaurant Cuisines (Joins Table)
-    - Menus (Belongs to Restaurant)
+    - Menus 
+    - Restaurant Menus  (Joins Table)
     - Items
-    - Menu Items (Joins Table)
-    - Logo Photos (Belongs to Restaurant)
+    - Restaurant Menu Items (Joins Table)
+    - Logo Photos 
+    - Restaurant Logos (Joins Table)
 - Creates the following Function:
     - menu_items_by_cuisine_and_price(cuisine_type, max_price)
         - Returns a list of items from menus at restaurants that match the provided cuisine type at a price equal to or below the maximum provided
