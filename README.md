@@ -69,6 +69,10 @@ $ python run_migrations.py
         - Returns a list of items from menus at restaurants that match the provided cuisine type at a price equal to or below the maximum provided
         - **Defaults to 'Mediterranean' and 15**
 
+### Schema Diagram
+
+<img width="1376" alt="FoodHub-schema-diagram" src="https://github.com/wratterman/FoodHub-Project/assets/25143074/430d4e4c-c0b4-45ca-b8b4-f85e62ab9b80">
+
 ### Execute the Loader
 
 ```shell
