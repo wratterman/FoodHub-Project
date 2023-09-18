@@ -47,34 +47,42 @@ def insert_restaurants(cur, restaurant_data):
 def insert_cuisines(cur, cusine_data):
     cur.execute(
         """
-            INSERT INTO cuisines (name)
-            VALUES (%s)
-            ON CONFLICT (name)
-            DO UPDATE SET 
-                name=EXCLUDED.name ;
-            """,
+        INSERT INTO cuisines (name)
+        VALUES (%s)
+        ON CONFLICT (name)
+        DO UPDATE SET 
+            name=EXCLUDED.name
+        RETURNING id;
+        """,
         (cusine_data,),
     )
 
 
-def insert_logo_photos(cur, restaurant_id, logo_images_data):
+def insert_logo_photos(cur, logo_images_data):
     cur.execute(
         """
-            INSERT INTO logo_photos (restaurant_id, image_url)
-            VALUES (%s, %s);
-            """,
-        (restaurant_id, logo_images_data),
+        INSERT INTO logo_photos (image_url)
+        VALUES (%s)
+        ON CONFLICT (image_url)
+        DO UPDATE SET 
+            image_url=EXCLUDED.image_url
+        RETURNING id;
+        """,
+        (logo_images_data,),
     )
 
 
-def insert_menu(cur, restaurant_id, menus_data):
+def insert_menu(cur, menus_data):
     cur.execute(
         """
-        INSERT INTO menus (restaurant_id, category_name)
-        VALUES (%s, %s)
+        INSERT INTO menus (category_name)
+        VALUES (%s)
+        ON CONFLICT (category_name)
+        DO UPDATE SET 
+            category_name=EXCLUDED.category_name
         RETURNING id;
         """,
-        (restaurant_id, menus_data["category_name"]),
+        (menus_data["category_name"],),
     )
 
 
@@ -83,6 +91,12 @@ def insert_items(cur, items_data):
         """
         INSERT INTO items (product_id, name, price, image)
         VALUES (%s, %s, %s, %s)
+        ON CONFLICT (product_id, name, price, image)
+        DO UPDATE SET 
+            product_id=EXCLUDED.product_id,
+            name=EXCLUDED.name,
+            price=EXCLUDED.price,
+            image=EXCLUDED.image
         RETURNING id;
         """,
         (
@@ -94,21 +108,58 @@ def insert_items(cur, items_data):
     )
 
 
-def insert_menu_items(cur, menu_id, item_id):
+def insert_restaurant_menu_items(cur, restaurant_id, menu_id, item_id):
     cur.execute(
         """
-        INSERT INTO menu_items (menu_id, item_id)
-        VALUES (%s, %s);
+        INSERT INTO restaurant_menu_items (restaurant_id, menu_id, item_id)
+        VALUES (%s, %s, %s)
+        ON CONFLICT (restaurant_id, menu_id, item_id)
+        DO UPDATE SET 
+            restaurant_id=EXCLUDED.restaurant_id,
+            menu_id=EXCLUDED.menu_id,
+            item_id=EXCLUDED.item_id;
         """,
-        (menu_id, item_id),
+        (restaurant_id, menu_id, item_id),
     )
 
 
 def insert_restaurant_cuisines(cur, restaurant_id, cuisine_id):
     cur.execute(
         """
-            INSERT INTO restaurant_cuisines (restaurant_id, cuisine_id)
-            VALUES (%s, %s);
-            """,
+        INSERT INTO restaurant_cuisines (restaurant_id, cuisine_id)
+        VALUES (%s, %s)
+        ON CONFLICT (restaurant_id, cuisine_id)
+        DO UPDATE SET 
+            restaurant_id=EXCLUDED.restaurant_id,
+            cuisine_id=EXCLUDED.cuisine_id;
+        """,
         (restaurant_id, cuisine_id),
+    )
+
+
+def insert_restaurant_logos(cur, restaurant_id, logo_id):
+    cur.execute(
+        """
+        INSERT INTO restaurant_logos (restaurant_id, logo_id)
+        VALUES (%s, %s)
+        ON CONFLICT (restaurant_id, logo_id)
+        DO UPDATE SET 
+            restaurant_id=EXCLUDED.restaurant_id,
+            logo_id=EXCLUDED.logo_id;
+        """,
+        (restaurant_id, logo_id),
+    )
+
+
+def insert_restaurant_menus(cur, restaurant_id, menu_id):
+    cur.execute(
+        """
+        INSERT INTO restaurant_menus (restaurant_id, menu_id)
+        VALUES (%s, %s)
+        ON CONFLICT (restaurant_id, menu_id)
+        DO UPDATE SET 
+            restaurant_id=EXCLUDED.restaurant_id,
+            menu_id=EXCLUDED.menu_id;
+        """,
+        (restaurant_id, menu_id),
     )
