@@ -6,6 +6,8 @@ from .db_utils import (
     insert_cuisines,
     insert_menu,
     insert_items,
-    insert_menu_items,
+    insert_restaurant_menu_items,
     insert_restaurant_cuisines,
+    insert_restaurant_logos,
+    insert_restaurant_menus,
 )

@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def export_tables(cur):
     tables_to_export = [
         "restaurants",
@@ -8,10 +9,12 @@ def export_tables(cur):
         "cuisines",
         "menus",
         "items",
-        "menu_items",
+        "restaurant_menu_items",
+        "restaurant_menus",
+        "restaurant_logos",
     ]
     for table_name in tables_to_export:
-        cur.execute(f"SELECT * FROM {table_name};")
+        cur.execute(f"SELECT * FROM {table_name} ORDER BY id;")
         rows = cur.fetchall()
 
         if rows:
@@ -47,7 +50,9 @@ def export_cuisine_search_results(cur):
             column_names = [desc[0] for desc in cur.description]
             data = pd.DataFrame(rows, columns=column_names)
 
-            csv_file_path = f"output_csvs/query_results/{cuisine}_items_below_15_dollars.csv"
+            csv_file_path = (
+                f"output_csvs/query_results/{cuisine}_items_below_15_dollars.csv"
+            )
             data.to_csv(csv_file_path, index=False)
 
             print(
