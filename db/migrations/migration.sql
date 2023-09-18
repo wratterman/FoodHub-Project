@@ -1,3 +1,5 @@
+CREATE TYPE restaurant_type AS ENUM ('dine-in', 'take-out');
+
 -- Create the restaurants table
 CREATE TABLE IF NOT EXISTS restaurants (
     id SERIAL PRIMARY KEY,
@@ -5,7 +7,7 @@ CREATE TABLE IF NOT EXISTS restaurants (
     name VARCHAR,
     phone_number VARCHAR,
     address VARCHAR,
-    type VARCHAR,
+    type restaurant_type,
     description VARCHAR,
     UNIQUE(restaurant_id)
 );

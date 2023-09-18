@@ -1,0 +1,9 @@
+SELECT COUNT(*) FROM cuisines; -- 12
+SELECT COUNT(*) FROM restaurants; -- 191
+SELECT COUNT(*) FROM menus; --  27
+SELECT COUNT(*) FROM items; --  3042
+SELECT COUNT(*) FROM logo_photos; --  86
+SELECT COUNT(*) FROM restaurant_cuisines; --  191
+SELECT COUNT(*) FROM restaurant_logos; --  191
+SELECT COUNT(*) FROM restaurant_menu_items; --  3042
+SELECT COUNT(*) FROM restaurant_menus; --  764;

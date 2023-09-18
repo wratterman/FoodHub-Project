@@ -1,3 +1,5 @@
+import pprint
+
 from db import (
     insert_restaurants,
     insert_logo_photos,
@@ -18,7 +20,7 @@ def load_restaurant_data(data, cur):
         load_logo_photos(cur, restaurant_data, restaurant_id)
         load_cuisines(cur, restaurant_data, restaurant_id)
         load_menus(cur, restaurant_data, restaurant_id)
-        print(f"Successfully Loaded: {restaurant_data}")
+        pprint.PrettyPrinter(indent=4).pprint(f"Successfully Loaded: {restaurant_data}")
 
 
 def load_menus(cur, restaurant_data, restaurant_id):

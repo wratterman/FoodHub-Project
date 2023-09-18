@@ -4,14 +4,14 @@
 
 ### Prerequisites to be Installed
 
-- PostgreSQL
-- Python3+
-- Pip3+
+- PostgreSQL [Click Here to Download Postgres](https://www.postgresql.org/download/)
+- Python3+ [Click Here to Download Python](https://www.python.org/downloads/)
+- Pip3+ [Click Here to Download Pip](https://pip.pypa.io/en/stable/cli/pip_install/)
 
 or
 
-- Docker
-- docker-compose
+- Docker [Click Here to Docker](https://docs.docker.com/engine/install/)
+- docker-compose [Click Here to Compose](https://docs.docker.com/compose/install/)
 
 ## If Using Docker (Recommended)
 
@@ -51,6 +51,10 @@ $ export DB_PASSWORD=your-db-password
 
 ```shell
 $ pip install -r requirements.txt
+# OR
+$ pip install psycopg2-binary
+$ pip install pandas
+$ pip install pprintpp
 $ python run_migrations.py
 ```
 
@@ -92,26 +96,127 @@ $ python main.py
     - Executes `menu_items_by_cuisine_and_price(cuisine_type, max_price)` for ever listed Cuisine Type and a default max price of $15.
         - Writes out the results to `output_csvs/query_results/` then with the file name matching the following pattern: `{CUISINE_TYPE}_items_below_15_dollars.csv` 
 
-### Verify in Postgres (with 100 limits)
+### Verify in Postgres
 
 Open Postgres from the terminal using `psql` and then:
 
 ```sql
-\x on; -- Turns on Extended Display
+\x auto; -- Turns on Auto Extended Display
 
 -- tables
 \dt; -- view all tables
-SELECT * FROM restaurants LIMIT 100;
-SELECT * FROM cuisines LIMIT 100;
-SELECT * FROM menus LIMIT 100;
-SELECT * FROM items LIMIT 100;
-SELECT * FROM logo_photos LIMIT 100;
-SELECT * FROM restaurant_cuisines LIMIT 100;
-SELECT * FROM menu_items LIMIT 100;
+SELECT * FROM restaurants;
+SELECT * FROM cuisines;
+SELECT * FROM menus;
+SELECT * FROM items;
+SELECT * FROM logo_photos;
+SELECT * FROM restaurant_cuisines;
+SELECT * FROM restaurant_logos;
+SELECT * FROM restaurant_menus;
+SELECT * FROM restaurant_menu_items;
 
 -- functions
 \df; -- view all functions
-SELECT * FROM menu_items_by_cuisine_and_price('Mediterranean', 15) LIMIT 100;
-SELECT * FROM menu_items_by_cuisine_and_price('American', 15) LIMIT 100;
+SELECT * FROM menu_items_by_cuisine_and_price('Mediterranean', 15);
+SELECT * FROM menu_items_by_cuisine_and_price('American', 15);
+-- Generage Random Cuisine to provide for function
+SELECT * FROM menu_items_by_cuisine_and_price(
+    (
+        SELECT 
+            name 
+        FROM cuisines 
+        ORDER BY random() 
+        LIMIT 1
+    ), 
+    15)
+;
+
+-- Playground
+-- Search for Items under $10 on Dessert Menus
+SELECT 
+    r.restaurant_id AS restaurant_id, 
+    r.name AS restaurant, 
+    c.name AS cuisine, 
+    m.category_name AS menu, 
+    i.product_id AS item_id, 
+    i.name AS item, 
+    i.price AS price 
+FROM restaurants r 
+INNER JOIN restaurant_cuisines rc 
+    ON r.id = rc.restaurant_id 
+INNER JOIN cuisines c 
+    ON rc.cuisine_id = c.id 
+INNER JOIN restaurant_menu_items rmi 
+    ON r.id = rmi.restaurant_id 
+INNER JOIN menus m 
+    ON rmi.menu_id = m.id 
+INNER JOIN items i 
+    ON rmi.item_id = i.id 
+WHERE m.category_name ILIKE '%dessert%' -- Any menu category_name
+    AND i.price < 10 -- Any desired max_price
+ORDER BY restaurant, restaurant_id, price;
+
+-- Average Item Price by Cuisine Type
+SELECT
+    c.name as cuisine,
+    ROUND(AVG(i.price)::numeric, 2) as avg_item_price
+FROM cuisines c
+INNER JOIN restaurant_cuisines rc
+    ON c.id = rc.cuisine_id
+INNER JOIN restaurant_menu_items rmi
+    ON rc.restaurant_id = rmi.restaurant_id
+INNER JOIN items i
+    ON rmi.item_id = i.id
+GROUP BY cuisine
+ORDER BY avg_item_price;
+
+-- Average Item Price by Cuisine + Menu Type
+SELECT
+    c.name as cuisine,
+    m.category_name as menu,
+    ROUND(AVG(i.price)::numeric, 2) as avg_item_price
+FROM cuisines c
+INNER JOIN restaurant_cuisines rc
+    ON c.id = rc.cuisine_id
+INNER JOIN restaurant_menu_items rmi
+    ON rc.restaurant_id = rmi.restaurant_id
+INNER JOIN menus m
+    ON rmi.menu_id = m.id
+INNER JOIN items i
+    ON rmi.item_id = i.id
+GROUP BY cuisine, menu
+ORDER BY cuisine, avg_item_price;
+
+-- Average Item Price by Cuisine + Menu Type With Overall Cuisine Average across Menus
+SELECT
+    c.name as cuisine,
+    'ALL MENUS' as menu,
+    ROUND(AVG(i.price)::numeric, 2) as avg_item_price
+FROM cuisines c
+INNER JOIN restaurant_cuisines rc
+    ON c.id = rc.cuisine_id
+INNER JOIN restaurant_menu_items rmi
+    ON rc.restaurant_id = rmi.restaurant_id
+INNER JOIN items i
+    ON rmi.item_id = i.id
+GROUP BY cuisine
+
+UNION
+
+SELECT
+    c.name as cuisine,
+    m.category_name as menu,
+    ROUND(AVG(i.price)::numeric, 2) as avg_item_price
+FROM cuisines c
+INNER JOIN restaurant_cuisines rc
+    ON c.id = rc.cuisine_id
+INNER JOIN restaurant_menu_items rmi
+    ON rc.restaurant_id = rmi.restaurant_id
+INNER JOIN menus m
+    ON rmi.menu_id = m.id
+INNER JOIN items i
+    ON rmi.item_id = i.id
+GROUP BY cuisine, menu
+ORDER BY cuisine, avg_item_price;
 
 ```
